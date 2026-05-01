@@ -18,7 +18,7 @@ interface Props {
 
 const { title, description = 'Съвети и ползезна информация за вашето здраво и красиво тяло', image } = Astro.props;
 const siteTitle = title === 'Начало' ? 'Клуб Здраве' : `${title} — Клуб Здраве`;
-const canonicalURL = new URL(Astro.url.pathname, 'https://www.clubzdrave.eu');
+const canonicalURL = new URL(Astro.url.pathname.replace(/\.html$/, ''), 'https://www.clubzdrave.eu');
 ---
 
 <!doctype html>
