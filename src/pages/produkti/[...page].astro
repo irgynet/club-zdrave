@@ -1,0 +1,43 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import OfferCard from '../../components/OfferCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const OFFERS_PER_PAGE = 24;
+  const allOffers = (await getCollection('offers')).sort((a, b) => {
+    const dateA = a.data.date instanceof Date ? a.data.date : new Date(a.data.date);
+    const dateB = b.data.date instanceof Date ? b.data.date : new Date(b.data.date);
+    return dateB.getTime() - dateA.getTime();
+  });
+  const totalPages = Math.max(1, Math.ceil(allOffers.length / OFFERS_PER_PAGE));
+  return Array.from({ length: totalPages }, (_, i) => {
+    const page = i + 1;
+    const start = (page - 1) * OFFERS_PER_PAGE;
+    return {
+      params: { page: page === 1 ? undefined : String(page) },
+      props: { offers: allOffers.slice(start, start + OFFERS_PER_PAGE), currentPage: page, totalPages },
+    };
+  });
+}
+
+const { offers, currentPage, totalPages } = Astro.props;
+const basePath = '/produkti';
+---
+<Layout title={currentPage > 1 ? `Продукти — страница ${currentPage}` : 'Продукти'} description="Качествени продукти и хранителни добавки на много добри цени за вашето по-добро здраве.">
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="text-center mb-10">
+      <h1 class="font-serif text-3xl md:text-4xl font-bold text-gray-900 mb-3">Продукти за вашето здраве</h1>
+      <p class="text-gray-500 text-lg max-w-xl mx-auto">Качествени продукти и хранителни добавки на много добри цени за вашето по-добро здраве.</p>
+    </div>
+    {offers.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {offers.map((offer) => (<OfferCard offer={offer} />))}
+      </div>
+    ) : (
+      <p class="text-center text-gray-400 py-12">Все още няма продукти, проверете отново скоро!</p>
+    )}
+    <Pagination currentPage={currentPage} totalPages={totalPages} basePath={basePath} />
+  </section>
+</Layout>

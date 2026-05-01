@@ -1,0 +1,69 @@
+---
+interface Props {
+  featuredPost?: {
+    title: string;
+    description: string;
+    image: string;
+    url: string;
+    category: string;
+  };
+}
+
+const { featuredPost } = Astro.props;
+---
+
+<section class="relative h-[85vh] min-h-[560px] max-h-[800px] overflow-hidden">
+  <img
+    src={featuredPost?.image ?? 'https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1600'}
+    alt="Travel inspiration"
+    class="w-full h-full object-cover"
+    loading="eager"
+  />
+  <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/35 to-transparent" />
+
+  <div class="absolute inset-0 flex flex-col justify-end px-6 md:px-12 pb-12 md:pb-20 max-w-5xl mx-auto w-full left-0 right-0">
+    {featuredPost && (
+      <a href={featuredPost.url} class="group block">
+        <div class="flex items-center gap-2 mb-4">
+          <span class="px-3 py-1 bg-teal-500 text-white text-xs font-bold uppercase tracking-widest rounded-full">
+            Featured
+          </span>
+          <span class="text-white/70 text-sm">{featuredPost.category}</span>
+        </div>
+        <h1 class="font-serif text-4xl md:text-6xl lg:text-7xl text-white font-bold leading-tight mb-5 group-hover:text-teal-200 transition-colors duration-300 max-w-4xl">
+          {featuredPost.title}
+        </h1>
+        <p class="text-white/80 text-lg md:text-xl max-w-2xl leading-relaxed mb-8 font-light">
+          {featuredPost.description}
+        </p>
+        <div class="inline-flex items-center gap-2 px-6 py-3 bg-teal-600 hover:bg-teal-500 text-white font-semibold rounded-xl transition-colors duration-200 shadow-lg">
+          Прочетете повече
+          <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </div>
+      </a>
+    )}
+    {!featuredPost && (
+      <div>
+        <h1 class="font-serif text-5xl md:text-7xl text-white font-bold leading-tight mb-5">
+          Последвайте ни<br />за вашето здраве!
+        </h1>
+        <p class="text-white/80 text-xl max-w-xl leading-relaxed mb-8 font-light">
+          Полезни съвети както за цялостното ви здраве, така и за оптималното ви тегло и начин на живот.
+        </p>
+        <a href="/trip-ideas" class="inline-flex items-center gap-2 px-6 py-3 bg-teal-600 hover:bg-teal-500 text-white font-semibold rounded-xl transition-colors">
+          Прочетете
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+    )}
+  </div>
+
+  <div class="absolute bottom-8 right-8 hidden md:flex flex-col items-center gap-2 text-white/50">
+    <div class="w-px h-12 bg-white/30"></div>
+    <span class="text-xs tracking-widest rotate-90 origin-center translate-y-4">SCROLL</span>
+  </div>
+</section>

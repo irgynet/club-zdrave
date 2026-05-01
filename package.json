@@ -1,0 +1,22 @@
+{
+  "name": "top-trip-ideas",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev --host",
+    "build": "astro build",
+    "build:dev": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^5.0.4",
+    "@astrojs/partytown": "^2.1.7",
+    "@astrojs/sitemap": "^3.7.2",
+    "@fontsource-variable/inter": "^5.2.8",
+    "@fontsource/playfair-display": "^5.2.8",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.2.4",
+    "astro": "^6.1.6",
+    "tailwindcss": "^4.2.4"
+  }
+}

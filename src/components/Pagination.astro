@@ -1,0 +1,57 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  basePath: string;
+}
+
+const { currentPage, totalPages, basePath } = Astro.props;
+
+function getPageHref(page: number) {
+  return page === 1 ? basePath : `${basePath}/${page}`;
+}
+
+function getPages(current: number, total: number): (number | string)[] {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
+  const pages: (number | string)[] = [];
+  pages.push(1);
+  if (current > 3) pages.push('...');
+  for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) {
+    pages.push(i);
+  }
+  if (current < total - 2) pages.push('...');
+  pages.push(total);
+  return pages;
+}
+
+const pages = getPages(currentPage, totalPages);
+const linkClass = "inline-flex items-center justify-center w-10 h-10 rounded-lg text-sm font-medium transition-colors border border-gray-200 text-gray-700 hover:bg-gray-50";
+const activeLinkClass = "inline-flex items-center justify-center w-10 h-10 rounded-lg text-sm font-medium transition-colors bg-teal-500 text-white";
+const navLinkClass = "inline-flex items-center gap-1 px-4 py-2 rounded-lg border border-gray-200 text-sm font-medium text-gray-700 hover:bg-gray-50 transition-colors";
+---
+
+{totalPages > 1 && (
+  <nav class="mt-12 flex items-center justify-center gap-2" aria-label="Pagination">
+    {currentPage > 1 && (
+      <a href={getPageHref(currentPage - 1)} class={navLinkClass}>
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+        Предишна
+      </a>
+    )}
+
+    {pages.map((page) => typeof page === 'string' ? (
+      <span class="inline-flex items-center justify-center w-10 h-10 text-gray-400 text-sm">...</span>
+    ) : (
+      <a href={getPageHref(page)} class={page === currentPage ? activeLinkClass : linkClass} aria-current={page === currentPage ? 'page' : undefined}>
+        {page}
+      </a>
+    ))}
+
+    {currentPage < totalPages && (
+      <a href={getPageHref(currentPage + 1)} class={navLinkClass}>
+        Следваща
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      </a>
+    )}
+  </nav>
+)}

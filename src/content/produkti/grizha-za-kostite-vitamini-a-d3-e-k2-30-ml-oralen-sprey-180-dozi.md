@@ -1,0 +1,13 @@
+---
+title: "Грижа за костите - Витамини А + D3 + E + K2, 30 ml, орален спрей, 180 дози"
+description: "Допринася за нормалното състояние на костите и зъбите"
+image: "http://revita.bg/img/p/1/2/7/8/1/12781.jpg"
+affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fgrizha-za-kostite-vitamini-a-d3-e-k2-30-ml-oralen-sprej-180-dozi"
+price: "11.14 € / 21.79 лв."
+brand: "Ekamedica"
+category: "Начало"
+featured: false
+date: 2026-04-30
+---
+
+Допринася за нормалното състояние на костите и зъбите

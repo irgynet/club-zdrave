@@ -1,0 +1,13 @@
+---
+title: "Имунна и сърдечна функция - Куркума екстракт Curcumin Elite ™, 500 mg х 60 капсули"
+description: "Допринася за нормалното функциониране на имунната и сърдечно-съдовата система. Антиоксидант"
+image: "http://revita.bg/img/p/9/7/7/6/9776.jpg"
+affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fimunna-i-sardechna-funkciya-kurkuma-ekstrakt-curcumin-elite-500-mg-kh-60-kapsuli"
+price: "49.54 € / 96.89 лв."
+brand: "Life Extension"
+category: "Начало"
+featured: false
+date: 2026-04-30
+---
+
+Допринася за нормалното функциониране на имунната и сърдечно-съдовата система. Антиоксидант

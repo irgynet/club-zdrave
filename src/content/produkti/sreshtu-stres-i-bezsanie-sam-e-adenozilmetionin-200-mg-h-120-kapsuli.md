@@ -1,0 +1,13 @@
+---
+title: "Срещу стрес и безсъние - SAM-e Аденозилметионин, 200 mg х 120 капсули"
+description: "Допринася за нормалното състояние на нервната система, съня и ставите"
+image: "http://revita.bg/img/p/1/1/0/8/1/11081.jpg"
+affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsresshu-stres-i-bezsanie-sam-e-adenozilmetionin-200-mg-kh-60-kapsuli"
+price: "82.01 € / 160.40 лв."
+brand: "Nutricost"
+category: "Начало"
+featured: false
+date: 2026-04-30
+---
+
+Допринася за нормалното състояние на нервната система, съня и ставите

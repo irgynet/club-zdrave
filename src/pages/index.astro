@@ -1,0 +1,63 @@
+---
+import Layout from '../layouts/Layout.astro';
+import HeroSection from '../components/HeroSection.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import PostCard from '../components/PostCard.astro';
+import { categories } from '../utils/categories';
+import { getFeaturedPosts, getRecentPosts, getPostUrl } from '../utils/posts';
+import { getCategoryMeta } from '../utils/categories';
+import { getAllPostsForCategory } from '../utils/posts';
+import { getImageSrc } from '../utils/image';
+
+const featured = await getFeaturedPosts();
+const recentPosts = await getRecentPosts(6);
+
+const heroPost = featured[0];
+const heroData = heroPost
+  ? {
+      title: heroPost.data.title,
+      description: heroPost.data.description,
+      image: getImageSrc(heroPost.data.image as any),
+      url: getPostUrl(heroPost),
+      category: getCategoryMeta(heroPost.data.category as any)?.label ?? heroPost.data.category,
+    }
+  : undefined;
+
+const categoryCounts: Record<string, number> = {};
+for (const cat of categories) {
+  const posts = await getAllPostsForCategory(cat.slug);
+  categoryCounts[cat.slug] = posts.length;
+}
+---
+
+<Layout title="Home">
+  <HeroSection featuredPost={heroData} />
+
+  <!-- Categories -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="text-center mb-10">
+      <h2 class="font-serif text-3xl md:text-4xl font-bold text-gray-900 mb-3">Разгледайте по категория</h2>
+      <p class="text-gray-500 text-lg max-w-xl mx-auto">Намерете нужната информация за да бъдете по-крепко здраве.</p>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      {categories.map((cat) => (
+        <CategoryCard category={cat} postCount={categoryCounts[cat.slug]} />
+      ))}
+    </div>
+  </section>
+
+  <!-- Recent Posts -->
+  {recentPosts.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
+      <div class="flex items-center gap-3 mb-8">
+        <span class="w-1 h-6 bg-teal-500 rounded-full"></span>
+        <h2 class="font-serif text-2xl md:text-3xl font-semibold text-gray-900">Последни публикации</h2>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {recentPosts.map((post) => (
+          <PostCard post={post} />
+        ))}
+      </div>
+    </section>
+  )}
+</Layout>

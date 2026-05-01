@@ -1,0 +1,109 @@
+---
+import { categories } from '../utils/categories';
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="fixed top-0 left-0 right-0 z-50 transition-all duration-300" id="site-header">
+  <div class="bg-white/95 backdrop-blur-md shadow-sm border-b border-gray-100">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16 md:h-18">
+        <a href="/" class="flex items-center gap-2 group">
+          <div class="w-64 rounded-lg flex items-center justify-center flex-shrink-0">
+             <img src="/logo.png" alt="Клуб Здраве лого" />
+            </svg>
+          </div>
+       </a>
+
+        <nav class="hidden lg:flex items-center gap-1" aria-label="Main navigation">
+          {categories.map((cat) => {
+            const isActive = currentPath.startsWith(`/${cat.slug}`);
+            return (
+              <a
+                href={`/${cat.slug}`}
+                class={`px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap ${
+                  isActive
+                    ? 'bg-teal-50 text-teal-700'
+                    : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
+                }`}
+              >
+                {cat.label}
+              </a>
+            );
+          })}
+          <a
+            href="/produkti"
+            class={`px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap ${
+              currentPath.startsWith('/offers')
+                ? 'bg-teal-50 text-teal-700'
+                : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
+            }`}
+          >
+            Продукти
+          </a>
+        </nav>
+
+        <button
+          id="mobile-menu-btn"
+          class="lg:hidden p-2 rounded-lg text-gray-600 hover:text-gray-900 hover:bg-gray-100 transition-colors"
+          aria-label="Toggle menu"
+          aria-expanded="false"
+        >
+          <svg id="menu-icon" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg id="close-icon" class="w-6 h-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-100">
+      <nav class="max-w-7xl mx-auto px-4 py-3 flex flex-col gap-1">
+        {categories.map((cat) => {
+          const isActive = currentPath.startsWith(`/${cat.slug}`);
+          return (
+            <a
+              href={`/${cat.slug}`}
+              class={`px-4 py-2.5 rounded-lg text-sm font-medium transition-colors ${
+                isActive
+                  ? 'bg-teal-50 text-teal-700'
+                  : 'text-gray-700 hover:bg-gray-50'
+              }`}
+            >
+              {cat.label}
+            </a>
+          );
+        })}
+        <a
+          href="/produkti"
+          class={`px-4 py-2.5 rounded-lg text-sm font-medium transition-colors ${
+            currentPath.startsWith('/offers')
+              ? 'bg-teal-50 text-teal-700'
+              : 'text-gray-700 hover:bg-gray-50'
+          }`}
+        >
+          Продукти
+        </a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="h-16 md:h-18"></div>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  const menuIcon = document.getElementById('menu-icon');
+  const closeIcon = document.getElementById('close-icon');
+
+  btn?.addEventListener('click', () => {
+    const isOpen = !menu?.classList.contains('hidden');
+    menu?.classList.toggle('hidden', isOpen);
+    menuIcon?.classList.toggle('hidden', !isOpen);
+    closeIcon?.classList.toggle('hidden', isOpen);
+    btn.setAttribute('aria-expanded', String(!isOpen));
+  });
+</script>

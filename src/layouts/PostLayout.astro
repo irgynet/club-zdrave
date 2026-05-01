@@ -1,0 +1,109 @@
+---
+import Layout from './Layout.astro';
+import { Image } from 'astro:assets';
+import type { CategorySlug } from '../utils/categories';
+import { getCategoryMeta } from '../utils/categories';
+import { isLocalImage, getImageSrc, type FlexibleImage } from '../utils/image';
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  image: FlexibleImage;
+  author: string;
+  tags: string[];
+  category: CategorySlug;
+}
+
+const { title, description, date, image, author, tags, category } = Astro.props;
+const categoryMeta = getCategoryMeta(category);
+const useLocal = isLocalImage(image);
+const ogImage = getImageSrc(image);
+
+const formattedDate = new Intl.DateTimeFormat('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}).format(date);
+---
+
+<Layout title={title} description={description} image={ogImage}>
+  <article>
+    <div class="relative h-[60vh] min-h-[400px] max-h-[600px] overflow-hidden">
+      {useLocal ? (
+        <Image
+          src={image as any}
+          alt={title}
+          widths={[800, 1200, 1600]}
+          sizes="100vw"
+          class="w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+        />
+      ) : (
+        <img
+          src={image as string}
+          alt={title}
+          class="w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+        />
+      )}
+      <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
+      <div class="absolute inset-0 flex flex-col justify-end p-6 md:p-12 max-w-5xl mx-auto w-full left-0 right-0">
+        <a
+          href={`/${category}`}
+          class="inline-flex items-center text-sm font-medium text-teal-300 hover:text-teal-200 mb-3 transition-colors w-fit"
+        >
+          <svg class="w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+          </svg>
+          {categoryMeta.label}
+        </a>
+        <h1 class="font-serif text-3xl md:text-5xl text-white font-bold leading-tight mb-4">{title}</h1>
+        <div class="flex flex-wrap items-center gap-4 text-white/80 text-sm">
+          <span class="flex items-center gap-1.5">
+            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+            </svg>
+            {author}
+          </span>
+          <span class="flex items-center gap-1.5">
+            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+            {formattedDate}
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-w-4xl mx-auto px-6 py-12">
+      <p class="text-xl text-gray-600 leading-relaxed mb-10 font-light">{description}</p>
+
+      {tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mb-10">
+          {tags.map((tag) => (
+            <span class="px-3 py-1 bg-teal-50 text-teal-700 text-sm font-medium rounded-full border border-teal-100">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+      <div class="prose prose-lg prose-gray max-w-none
+        prose-headings:font-serif prose-headings:text-gray-900
+        prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
+        prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
+        prose-p:text-gray-700 prose-p:leading-relaxed
+        prose-a:text-teal-600 prose-a:no-underline hover:prose-a:underline
+        prose-img:rounded-xl prose-img:shadow-md
+        prose-blockquote:border-teal-400 prose-blockquote:bg-teal-50 prose-blockquote:py-1 prose-blockquote:px-4 prose-blockquote:rounded-r-lg
+        prose-strong:text-gray-900
+        prose-ul:text-gray-700 prose-ol:text-gray-700
+      ">
+        <slot />
+      </div>
+    </div>
+  </article>
+</Layout>

@@ -1,0 +1,52 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+import '@fontsource-variable/inter';
+import '@fontsource/playfair-display/latin-400.css';
+import '@fontsource/playfair-display/latin-600.css';
+import '@fontsource/playfair-display/latin-700.css';
+import '@fontsource/playfair-display/cyrillic-400.css';
+import '@fontsource/playfair-display/cyrillic-600.css';
+import '@fontsource/playfair-display/cyrillic-700.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description = 'Съвети и ползезна информация за вашето здраво и красиво тяло', image } = Astro.props;
+const siteTitle = title === 'Начало' ? 'Клуб Здраве' : `${title} — Клуб Здраве`;
+const canonicalURL = new URL(Astro.url.pathname, 'https://www.clubzdrave.eu');
+---
+
+<!doctype html>
+<html lang="bg">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    {image && <meta property="og:image" content={image} />}
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={description} />
+    <title>{siteTitle}</title>
+    <link rel="canonical" href={canonicalURL.href} />
+<!-- Google tag (gtag.js) -->
+<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-NG3ST0VX82"></script>
+<script type="text/partytown">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NG3ST0VX82');
+</script>
+  </head>
+  <body class="bg-white text-gray-900 font-sans antialiased">
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,95 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CategoryHero from '../../components/CategoryHero.astro';
+import PostCard from '../../components/PostCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import { categories } from '../../utils/categories';
+import { getAllPostsForCategory } from '../../utils/posts';
+
+
+export async function getStaticPaths() {
+  const POSTS_PER_PAGE = 12;
+  const paths = [];
+  for (const cat of categories) {
+    const allPosts = await getAllPostsForCategory(cat.slug);
+    const featuredPosts = allPosts.filter((p) => p.data.featured);
+    const regularPosts = allPosts.filter((p) => !p.data.featured);
+    const totalPages = Math.max(1, Math.ceil(regularPosts.length / POSTS_PER_PAGE));
+
+    for (let page = 1; page <= totalPages; page++) {
+      const start = (page - 1) * POSTS_PER_PAGE;
+      const paginatedRegular = regularPosts.slice(start, start + POSTS_PER_PAGE);
+
+      paths.push({
+        params: { category: cat.slug, page: page === 1 ? undefined : String(page) },
+        props: {
+          featuredPosts: page === 1 ? featuredPosts : [],
+          regularPosts: paginatedRegular,
+          categoryMeta: cat,
+          currentPage: page,
+          totalPages,
+          totalPosts: allPosts.length,
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { category } = Astro.params;
+const { featuredPosts, regularPosts, categoryMeta, currentPage, totalPages, totalPosts } = Astro.props;
+const basePath = `/${category}`;
+---
+
+<Layout
+  title={currentPage > 1 ? `${categoryMeta.label} — Page ${currentPage}` : categoryMeta.label}
+  description={categoryMeta.description}
+  image={categoryMeta.heroImage}
+>
+  <CategoryHero category={categoryMeta} postCount={totalPosts} />
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    {totalPosts === 0 && (
+      <div class="text-center py-24">
+        <div class="text-5xl mb-4">❤️‍🩹</div>
+        <h2 class="font-serif text-2xl text-gray-700 mb-2">Все още няма статии</h2>
+        <p class="text-gray-400">Скоро ще бъдат публикувани</p>
+      </div>
+    )}
+
+    {featuredPosts.length > 0 && (
+      <section class="mb-14">
+        <div class="flex items-center gap-3 mb-6">
+          <span class="w-1 h-6 bg-teal-500 rounded-full"></span>
+          <h2 class="font-serif text-2xl font-semibold text-gray-900">Закачени</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {featuredPosts.map((post) => (
+            <PostCard post={post} featured={true} />
+          ))}
+        </div>
+      </section>
+    )}
+
+    {regularPosts.length > 0 && (
+      <section>
+        {(featuredPosts.length > 0 || currentPage > 1) && (
+          <div class="flex items-center gap-3 mb-6">
+            <span class="w-1 h-6 bg-teal-500 rounded-full"></span>
+            <h2 class="font-serif text-2xl font-semibold text-gray-900">
+              {currentPage > 1 ? `All Articles — Page ${currentPage}` : 'Всички статии'}
+            </h2>
+          </div>
+        )}
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {regularPosts.map((post) => (
+            <PostCard post={post} />
+          ))}
+        </div>
+      </section>
+    )}
+
+      <Pagination currentPage={currentPage} totalPages={totalPages} basePath={basePath} />
+
+  </div>
+</Layout>
