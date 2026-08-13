@@ -3,11 +3,11 @@ title: "Мускулна функция и издръжливост - L-Таур
 description: "Допринася за поддържане на нормалното състояние на мускулите и енергийния метаболизъм"
 image: "http://revita.bg/img/p/1/0/7/6/1/10761.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmuskulna-funkciya-i-izdrazhlivost-l-taurin-3000-mg-kh-1-kg-prakh"
-price: "31.16 € / 60.94 лв."
+price: "31.16 €"
 brand: "Vitabay"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за поддържане на нормалното състояние на мускулите и енергийния метаболизъм

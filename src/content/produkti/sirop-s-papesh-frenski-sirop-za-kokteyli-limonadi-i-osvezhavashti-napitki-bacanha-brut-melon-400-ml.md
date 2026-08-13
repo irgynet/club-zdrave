@@ -3,11 +3,11 @@ title: "Сироп с пъпеш – Френски сироп за коктей
 description: "Френски сироп с аромат на пъпеш канталупа и свеж плодов характер. Придава сладък и освежаващ вкус на коктейли, лимонади, студен чай и газирани напитки"
 image: "http://revita.bg/img/p/1/6/5/0/2/16502.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsirop-s-papesh-frenski-sirop-za-koktejli-limonadi-i-osvezhavasshi-napitki-bacanha-brut-melon-400-ml"
-price: "11.35 € / 22.20 лв."
+price: "11.35 €"
 brand: "Bacanha"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Френски сироп с аромат на пъпеш канталупа и свеж плодов характер. Придава сладък и освежаващ вкус на коктейли, лимонади, студен чай и газирани напитки

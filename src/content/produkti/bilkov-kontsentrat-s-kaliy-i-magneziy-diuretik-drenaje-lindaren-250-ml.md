@@ -3,11 +3,11 @@ title: "Билков концентрат с калий и магнезий – 
 description: "Ефективна природна подкрепа при задържане на течности и целулит. С изразено детоксикиращо действие"
 image: "http://revita.bg/img/p/4/6/4/1/4641.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Flinda-ren-diet-drenaje-extractos-vegetales-con-oligoelemntos-edulcorante-formula-pri-zadarzhane-na-technosti-250-ml"
-price: "16.90 € / 33.05 лв."
+price: "16.90 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Ефективна природна подкрепа при задържане на течности и целулит. С изразено детоксикиращо действие

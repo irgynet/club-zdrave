@@ -3,11 +3,11 @@ title: "Червено цвекло – за висок жизнен тонус 
 description: "Профилактика и терапия на анемия, слаба физическа издръжливост и мускулна умора, сърдечно-съдови нарушения"
 image: "http://revita.bg/img/p/1/0/8/3/4/10834.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fcherveno-tsveklo-koren-500-mg"
-price: "14.83 € / 29.00 лв."
+price: "14.83 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Профилактика и терапия на анемия, слаба физическа издръжливост и мускулна умора, сърдечно-съдови нарушения

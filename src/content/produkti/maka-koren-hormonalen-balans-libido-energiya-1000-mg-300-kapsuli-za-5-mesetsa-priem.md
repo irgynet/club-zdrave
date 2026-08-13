@@ -3,11 +3,11 @@ title: "Мака (корен) – хормонален баланс, либид�
 description: "При безплодие, понижено либидо, хроничен стрес, хормонален и емоционален дисбаланс."
 image: "http://revita.bg/img/p/6/3/6/0/6360.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmaca-root-koren-ot-maka-300-kapsuli"
-price: "32.99 € / 64.52 лв."
+price: "32.99 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 При безплодие, понижено либидо, хроничен стрес, хормонален и емоционален дисбаланс.

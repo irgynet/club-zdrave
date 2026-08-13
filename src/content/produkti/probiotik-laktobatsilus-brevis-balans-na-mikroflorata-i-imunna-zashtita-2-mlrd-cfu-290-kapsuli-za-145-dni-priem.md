@@ -3,11 +3,11 @@ title: "Пробиотик Лактобацилус бревис – Балан�
 description: "Lactobacillus brevis е пробиотичен щам, който подпомага чревната флора, стимулира имунния отговор и допринася за антиоксидантна защита. Подходящ за всекидневна…"
 image: "http://revita.bg/img/p/1/4/3/1/7/14317.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fprobiotik-laktobacilus-brevis-balans-na-mikroflorata-i-imunna-zasshita-2-mlrd-cfu-290-kapsuli"
-price: "49.18 € / 96.19 лв."
+price: "39.34 €"
 brand: "Wunschkapsel"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
-Lactobacillus brevis е пробиотичен щам, който подпомага чревната флора, стимулира имунния отговор и допринася за антиоксидантна защита. Подходящ за всекидневна грижа за храносмилателната и имунната система
+Lactobacillus brevis е пробиотичен щам, който подпомага чревната флора, стимулира имунния отговор и допринася за антиоксидантна защита. Подходящ за всекидневна грижа за храносмилателната и имунната системаПромоционалната цена се ...

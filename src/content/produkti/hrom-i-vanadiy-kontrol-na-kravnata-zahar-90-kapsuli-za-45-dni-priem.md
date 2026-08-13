@@ -3,11 +3,11 @@ title: "Хром и ванадий – контрол на кръвната за
 description: "Баланс на кръвната захар, контрол върху апетита, поддържане на здравословно тегло"
 image: "http://revita.bg/img/p/1/5/1/5/2/15152.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fhrom-vanadiy-125-g"
-price: "11.45 € / 22.39 лв."
+price: "11.45 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Баланс на кръвната захар, контрол върху апетита, поддържане на здравословно тегло

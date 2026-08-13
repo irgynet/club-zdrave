@@ -3,11 +3,11 @@ title: "Л-глутамин – за чревната бариера и здра
 description: "Допринася за нормалното състояние на мускулите, имунната система и нормалната чревна функция"
 image: "http://revita.bg/img/p/1/0/1/8/7/10187.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmuskulna-i-imunna-funkciya-l-glutamin-l-glutamine-500-mg-kh-120-kapsuli"
-price: "26.49 € / 51.81 лв."
+price: "26.49 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното състояние на мускулите, имунната система и нормалната чревна функция

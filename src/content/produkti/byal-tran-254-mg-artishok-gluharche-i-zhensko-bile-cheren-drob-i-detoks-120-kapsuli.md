@@ -3,11 +3,11 @@ title: "Бял трън 254 mg + Артишок, глухарче и женск�
 description: "Мощна билкова комбинация със стандартизиран силимарин от бял трън за подпомагане на чернодробната функция и пречистване на организма. Подходяща при усещане за…"
 image: "http://revita.bg/img/p/1/4/3/7/3/14373.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbyal-tran-254-mg-artishok-glukharche-i-zhensko-bile-cheren-drob-i-detoks-120-kapsuli"
-price: "53.87 € / 105.36 лв."
+price: "58.19 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мощна билкова комбинация със стандартизиран силимарин от бял трън за подпомагане на чернодробната функция и пречистване на организма. Подходяща при усещане за тежест, прием на медикаменти или активен детокс режим

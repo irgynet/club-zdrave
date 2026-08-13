@@ -3,11 +3,11 @@ title: "Комплексна формула за здравословно тег
 description: "Подпомага поддържането на нормално телесно тегло"
 image: "http://revita.bg/img/p/1/1/4/0/8/11408.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkompleksna-formula-za-zdravoslovno-teglo-s-garciniya-kambodzha-khrom-zeleno-kafe-i-l-karnitin-30-kapsuli"
-price: "25.44 € / 49.76 лв."
+price: "25.44 €"
 brand: "Vitall Plus"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага поддържането на нормално телесно тегло

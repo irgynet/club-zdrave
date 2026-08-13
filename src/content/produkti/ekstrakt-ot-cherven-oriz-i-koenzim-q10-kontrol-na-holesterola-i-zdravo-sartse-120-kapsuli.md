@@ -3,11 +3,11 @@ title: "Екстракт от червен ориз и коензим Q10 - ко
 description: "Допринася за нормалното функциониране на сърдечно-съдовата система"
 image: "http://revita.bg/img/p/8/9/1/4/8914.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fgrizha-za-sarceto-cherven-oriz-koenzim-q10-120-kapsuli"
-price: "25.91 € / 50.68 лв."
+price: "25.91 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното функциониране на сърдечно-съдовата система

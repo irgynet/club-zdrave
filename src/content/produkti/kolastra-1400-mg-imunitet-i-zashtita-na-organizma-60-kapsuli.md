@@ -3,11 +3,11 @@ title: "Коластра 1400 mg – Имунитет и защита на ор�
 description: "Коластра с висока концентрация за подкрепа на имунната система и естествените защитни сили. Подходяща за ежедневен прием при нужда от допълнителна имунна…"
 image: "http://revita.bg/img/p/1/6/6/3/1/16631.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkolastra-1400-mg-imunitet-i-zasshita-na-organizma-60-kapsuli"
-price: "26.84 € / 52.49 лв."
+price: "26.84 €"
 brand: "Kompava"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Коластра с висока концентрация за подкрепа на имунната система и естествените защитни сили. Подходяща за ежедневен прием при нужда от допълнителна имунна подкрепа.

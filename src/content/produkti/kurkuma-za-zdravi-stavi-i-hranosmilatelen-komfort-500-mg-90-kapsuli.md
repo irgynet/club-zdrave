@@ -3,11 +3,11 @@ title: "Куркума – За здрави стави и храносмила�
 description: "Съдържа 500 mg прах от корен на Curcuma longa – традиционно използван за поддържане на гъвкави и здрави стави, нормално храносмилане и антиоксидантна защита…"
 image: "http://revita.bg/img/p/1/3/8/3/7/13837.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkurkuma-za-zdravi-stavi-i-khranosmilatelen-komfort-500-mg-90-kapsuli"
-price: "21.93 € / 42.89 лв."
+price: "21.93 €"
 brand: "Power Health"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Съдържа 500 mg прах от корен на Curcuma longa – традиционно използван за поддържане на гъвкави и здрави стави, нормално храносмилане и антиоксидантна защита. Подходяща за всекидневна подкрепа при активен начин на живот или усещане за скованост и тежест след ...

@@ -3,11 +3,11 @@ title: "Сао Палмето 400 mg с Коприва и Мака – здра�
 description: "Комплексна формула със сао палмето, коприва и мака за поддържане на нормалното състояние на простатата. Допринася за хормоналния баланс и мъжкото репродуктивно…"
 image: "http://revita.bg/img/p/1/6/5/6/6/16566.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsao-palmeto-400-mg-s-kopriva-i-maka-zdrava-prostatata-i-khormonalen-balans-60-kapsuli"
-price: "19.70 € / 38.53 лв."
+price: "19.70 €"
 brand: "Aura Herbals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комплексна формула със сао палмето, коприва и мака за поддържане на нормалното състояние на простатата. Допринася за хормоналния баланс и мъжкото репродуктивно здраве. Обогатена с цинк и витамин B6 за допълнителна подкрепа на организма

@@ -3,11 +3,11 @@ title: "Червена боровинка 700 mg с Коприва  и Ехин�
 description: "Комбинация от концентриран екстракт от червена боровинка с коприва и ехинацея за поддържане на нормалното състояние на пикочните пътища. Подпомага защитата…"
 image: "http://revita.bg/img/p/1/6/5/5/4/16554.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fchervena-borovinka-700-mg-s-kopriva-i-ekhinaceya-zdrav-urinaren-trakt-i-zasshita-ot-infekcii-60-kapsuli"
-price: "17.25 € / 33.74 лв."
+price: "17.25 €"
 brand: "Aura Herbals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от концентриран екстракт от червена боровинка с коприва и ехинацея за поддържане на нормалното състояние на пикочните пътища. Подпомага защитата срещу бактериално прилепване и подкрепя естествения имунен отговор. Подходяща формула за ежедневна грижа ...

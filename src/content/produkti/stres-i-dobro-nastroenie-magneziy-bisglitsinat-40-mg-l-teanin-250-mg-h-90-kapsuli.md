@@ -3,11 +3,11 @@ title: "Стрес и добро настроение - Магнезий (бис
 description: "Допринася за нормалното състояние на нервната система и мускулите"
 image: "http://revita.bg/img/p/1/4/9/3/6/14936.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fstres-i-dobro-nastroenie-magnezij-bisglicinat-10-mg-l-teanin-125-mg-90-kapsuli"
-price: "24.91 € / 48.72 лв."
+price: "24.91 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното състояние на нервната система и мускулите

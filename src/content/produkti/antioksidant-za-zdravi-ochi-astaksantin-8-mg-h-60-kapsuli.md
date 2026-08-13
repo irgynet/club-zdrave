@@ -3,11 +3,11 @@ title: "Антиоксидант за здрави очи - Астаксанти
 description: "Допринася за нормалното зрение"
 image: "http://revita.bg/img/p/1/1/6/9/9/11699.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fantioksidant-za-zdravi-ochi-astaksantin-8-mg-kh-60-kapsuli"
-price: "35.55 € / 69.53 лв."
+price: "35.55 €"
 brand: "Vegavero"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното зрение

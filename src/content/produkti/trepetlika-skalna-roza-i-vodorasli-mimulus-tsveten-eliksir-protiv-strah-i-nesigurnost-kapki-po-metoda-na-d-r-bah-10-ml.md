@@ -3,11 +3,11 @@ title: "Трепетлика, Скална роза и Водорасли Мим
 description: "Допринасят за нормалното състояние на организма при чувство на страх и несигурност"
 image: "http://revita.bg/img/p/7/4/9/8/7498.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkapki-pri-strakh-i-nesigurnost-plantis-4-eco-kapki-po-metoda-na-d-r-bakh-10-ml"
-price: "15.68 € / 30.67 лв."
+price: "16.07 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринасят за нормалното състояние на организма при чувство на страх и несигурност

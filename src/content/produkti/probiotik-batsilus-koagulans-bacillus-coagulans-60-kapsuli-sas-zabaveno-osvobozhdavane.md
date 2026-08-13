@@ -3,11 +3,11 @@ title: "Пробиотик Бацилус Коагуланс - Bacillus Coagulan
 description: "Стимулира развитието на лактобацили и бифидобактерии в червата и облекчава симптомите при Синдром на раздразненото дебело черво. Подобрява усвояването на…"
 image: "http://revita.bg/img/p/9/2/5/3/9253.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fprobiotik-bacilus-koagulans-bacillus-coagulans-60-kapsuli-sas-zabaveno-osvobozhdavane"
-price: "35.48 € / 69.39 лв."
+price: "35.48 €"
 brand: "Thorne"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Стимулира развитието на лактобацили и бифидобактерии в червата и облекчава симптомите при Синдром на раздразненото дебело черво. Подобрява усвояването на протеините и намалява проявите на лактозна непоносимост. Оказва имуномодулиращ, противовъзпалителен и ...

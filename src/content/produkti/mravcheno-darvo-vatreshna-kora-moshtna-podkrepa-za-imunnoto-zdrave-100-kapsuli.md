@@ -3,11 +3,11 @@ title: "Мравчено дърво (вътрешна кора) - Мощна п�
 description: "С имуностимулиращи и противовъзпалителни свойства"
 image: "http://revita.bg/img/p/1/3/9/0/7/13907.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmravcheno-darvo-545-mg"
-price: "13.47 € / 26.35 лв."
+price: "13.47 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 С имуностимулиращи и противовъзпалителни свойства

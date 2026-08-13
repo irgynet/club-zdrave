@@ -3,11 +3,11 @@ title: "Калори бърн (въглехидратен метаболизъм
 description: "Подпомага метаболизма на въглехидратите и намалява натрупването на излишни калории от захари и нишесте. Подкрепя енергийната продукция и спомага за поддържане…"
 image: "http://revita.bg/img/p/1/3/2/6/6/13266.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkalori-barn-vaglekhidraten-metabolizam-90-kapsuli"
-price: "16.73 € / 32.72 лв."
-brand: "Fine Japan"
+price: "16.73 €"
+brand: "Fine Group"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага метаболизма на въглехидратите и намалява натрупването на излишни калории от захари и нишесте. Подкрепя енергийната продукция и спомага за поддържане на стабилни нива на кръвната захар

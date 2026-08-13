@@ -3,11 +3,11 @@ title: "Бутирова киселина – При раздразнено де
 description: "Бутирова киселина под формата на натриев бутират – ключова за поддържане на чревната бариера и микробиома. Облекчава симптомите при синдром на раздразненото…"
 image: "http://revita.bg/img/p/1/4/8/1/7/14817.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbutirova-kiselina-chrevno-zdrave-i-stomashen-komfor-1000-mg-30-paketcheta-kh-2-kapsuli"
-price: "53.40 € / 104.44 лв."
+price: "53.40 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Бутирова киселина под формата на натриев бутират – ключова за поддържане на чревната бариера и микробиома. Облекчава симптомите при синдром на раздразненото черво (IBS). Индивидуално дозирани пакетчета с по 2 капсули – за максимално удобство

@@ -3,11 +3,11 @@ title: "Хуск + Йерусалимски артишок (земна ябъл�
 description: "Комбинация от хуск (люспи от псилиум) и йерусалимски артишок – естествени източници на разтворими и неразтворими фибри. Подпомагат чревната перисталтика…"
 image: "http://revita.bg/img/p/1/3/3/6/7/13367.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkhusk-jerusalimski-artishok-zemna-yabalka-chreven-komfort-i-fibri-za-dobro-khranosmilane-150-kapsuli"
-price: "24.43 € / 47.78 лв."
+price: "24.43 €"
 brand: "Nutricost"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от хуск (люспи от псилиум) и йерусалимски артишок – естествени източници на разтворими и неразтворими фибри. Подпомагат чревната перисталтика, баланса на микробиома и чувството за ситост. Подходящи за поддържане на храносмилателното здраве

@@ -3,11 +3,11 @@ title: "Сироп с лешник – Френски сироп за кафе, 
 description: "Френски сироп с богат аромат на лешник, който придава мек и ядков вкус на кафе напитки, лате и фрапе. Подходящ за ароматизиране на десерти и сладкарски рецепти"
 image: "http://revita.bg/img/p/1/6/4/8/1/16481.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsirop-s-leshnik-frenski-sirop-za-kafe-late-i-deserti-bacanha-brut-noisette-400-ml"
-price: "11.35 € / 22.20 лв."
+price: "11.35 €"
 brand: "Bacanha"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Френски сироп с богат аромат на лешник, който придава мек и ядков вкус на кафе напитки, лате и фрапе. Подходящ за ароматизиране на десерти и сладкарски рецепти

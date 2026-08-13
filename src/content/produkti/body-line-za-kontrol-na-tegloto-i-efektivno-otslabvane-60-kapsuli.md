@@ -3,11 +3,11 @@ title: "Body Line – За контрол на теглото и ефектив�
 description: "Комплексна формула с екстракти от гарциния камбоджа, коприва, черен бъз и резене – за стимулиране на метаболизма, контрол на апетита и естествено изгаряне на…"
 image: "http://revita.bg/img/p/1/3/5/9/5/13595.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbody-line-za-kontrol-na-tegloto-i-efektivno-otslabvane-60-kapsuli"
-price: "21.62 € / 42.29 лв."
+price: "21.62 €"
 brand: "Dary Natury"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комплексна формула с екстракти от гарциния камбоджа, коприва, черен бъз и резене – за стимулиране на метаболизма, контрол на апетита и естествено изгаряне на мазнини. Body Line подпомага оформянето на силуета в подкрепа на активен начин на живот и здравословен ...

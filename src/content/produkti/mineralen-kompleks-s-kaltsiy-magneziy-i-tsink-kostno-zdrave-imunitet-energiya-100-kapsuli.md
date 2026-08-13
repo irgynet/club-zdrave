@@ -3,11 +3,11 @@ title: "Минерален комплекс с калций, магнезий и
 description: "Комбинация от минерали за здрави кости и клетъчна репродукцияПромоционалната цена се отнася за продукти със срок на годност до ..."
 image: "http://revita.bg/img/p/1/6/1/8/1/16181.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkaltsij-magnezij-tsink-255-mg"
-price: "7.69 € / 15.04 лв."
+price: "9.61 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от минерали за здрави кости и клетъчна репродукцияПромоционалната цена се отнася за продукти със срок на годност до ...

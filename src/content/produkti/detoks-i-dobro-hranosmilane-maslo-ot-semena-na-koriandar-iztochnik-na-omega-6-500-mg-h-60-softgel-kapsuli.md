@@ -3,11 +3,11 @@ title: "Детокс и добро храносмилане - Масло от с
 description: "Tabia използва суперкритичен (свръхкритичен) процес на екстракция, при който се освобождава целият спектър от биоактивни съединения на растенията и се разгръща…"
 image: "http://revita.bg/img/p/1/2/9/6/0/12960.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdetoks-i-dobro-khranosmilane-maslo-ot-semena-na-koriandar-iztochnik-na-omega-6-500-mg-kh-60-softgel-kapsuli"
-price: "43.14 € / 84.37 лв."
+price: "34.92 €"
 brand: "Tabia"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Tabia използва суперкритичен (свръхкритичен) процес на екстракция, при който се освобождава целият спектър от биоактивни съединения на растенията и се разгръща пълният терапевтичен потенциал на растителните масла. Точното наименование на тази иновативна ...

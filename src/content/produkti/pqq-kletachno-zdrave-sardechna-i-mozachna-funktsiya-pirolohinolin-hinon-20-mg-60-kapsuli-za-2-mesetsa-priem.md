@@ -3,11 +3,11 @@ title: "PQQ – клетъчно здраве, сърдечна и мозъчн�
 description: "Поддържа сърдечното здраве, подпомага когнитивните функции, повишава нивата на енергия"
 image: "http://revita.bg/img/p/6/4/0/3/6403.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fpqq-pirolinkvinolin-20-mg"
-price: "30.57 € / 59.79 лв."
+price: "30.57 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Поддържа сърдечното здраве, подпомага когнитивните функции, повишава нивата на енергия

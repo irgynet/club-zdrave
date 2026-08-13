@@ -3,11 +3,11 @@ title: "Мелатонин + 5-HTP + Валериана – За по-бързо
 description: "Комбинация от мелатонин, 5-HTP (екстракт от грифония), валериана и калифорнийски мак – подпомага съкращаването на времето за заспиване и насърчава непрекъснат…"
 image: "http://revita.bg/img/p/1/4/3/5/5/14355.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmelatonin-5-htp-valeriana-za-po-barzo-zaspivane-i-spokoen-san-40-tabletki"
-price: "16.71 € / 32.68 лв."
+price: "18.60 €"
 brand: "Dietaroma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от мелатонин, 5-HTP (екстракт от грифония), валериана и калифорнийски мак – подпомага съкращаването на времето за заспиване и насърчава непрекъснат сън през цялата нощ. Идеален при стрес, пътувания и смяна на ритъма на живот

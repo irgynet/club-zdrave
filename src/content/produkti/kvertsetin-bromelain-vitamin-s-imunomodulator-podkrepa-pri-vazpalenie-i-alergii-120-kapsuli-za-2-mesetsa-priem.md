@@ -3,11 +3,11 @@ title: "Кверцетин + бромелаин + витамин С – имун
 description: "Синергична формула с кверцетин, бромелаин и витамин C – за подкрепа на имунната система, нормален възпалителен отговор и здрави клетки. С пиперин за оптимално…"
 image: "http://revita.bg/img/p/1/4/3/6/9/14369.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkvercetin-1000-mg-bromelain-vitamin-c-imunitet-i-kletachno-zdrave-120-kapsuli"
-price: "34.02 € / 66.54 лв."
+price: "33.54 €"
 brand: "Vegavero"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Синергична формула с кверцетин, бромелаин и витамин C – за подкрепа на имунната система, нормален възпалителен отговор и здрави клетки. С пиперин за оптимално усвояване и по-добър ефект

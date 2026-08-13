@@ -3,11 +3,11 @@ title: "Растителен протеин от грах, чия и ориз �
 description: "Пълноценна растителна протеинова формула с грахов, оризов протеин и протеин от семена чия, осигуряваща 22 g протеин в порция. Подходяща за подпомагане на…"
 image: "http://revita.bg/img/p/1/6/3/6/1/16361.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Frastitelen-protein-ot-grakh-chiya-i-oriz-muskulno-vazstanovyavane-i-sila-22-g-protein-676-g-prakh-20-dozi"
-price: "57.12 € / 111.72 лв."
+price: "57.12 €"
 brand: "Thorne"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Пълноценна растителна протеинова формула с грахов, оризов протеин и протеин от семена чия, осигуряваща 22 g протеин в порция. Подходяща за подпомагане на мускулното възстановяване и поддържане на мускулната маса при активно спортуващи. Прах с наситен ...

@@ -1,0 +1,13 @@
+---
+title: "Билков концентрат с калий и магнезий – диуретик - Drenaje Lindaren - 650 ml"
+description: "Ефективна природна подкрепа при задържане на течности и целулит. С изразено детоксикиращо действие"
+image: "http://revita.bg/img/p/4/6/6/4/4664.jpg"
+affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Flinda-ren-diet-drenaje-extractos-vegetales-con-oligoelemntos-edulcorante-formula-pri-zadarzhane-na-technosti-650-ml"
+price: "32.51 €"
+brand: "Artesania Agricola"
+category: "Начало"
+featured: false
+date: 2026-08-13
+---
+
+Ефективна природна подкрепа при задържане на течности и целулит. С изразено детоксикиращо действие

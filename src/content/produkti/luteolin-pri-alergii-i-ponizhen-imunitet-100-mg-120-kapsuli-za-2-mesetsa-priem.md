@@ -3,11 +3,11 @@ title: "Лутеолин – при алергии и понижен имуни�
 description: "Естествен антихистамин, притежава антиоксидантни и противовъзпалителни свойства, подпомага лечението на алергии, астма, екземи."
 image: "http://revita.bg/img/p/6/3/8/6/6386.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fluteolin-100-mg-120-kapsuli"
-price: "31.62 € / 61.84 лв."
+price: "31.62 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Естествен антихистамин, притежава антиоксидантни и противовъзпалителни свойства, подпомага лечението на алергии, астма, екземи.

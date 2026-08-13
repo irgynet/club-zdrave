@@ -3,11 +3,11 @@ title: "Билкова формула за уринарен тракт (със �
 description: "Допринася за нормалното състояние на бъбреците, уринарния тракт и пикочо-половата система"
 image: "http://revita.bg/img/p/1/0/5/6/9/10569.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbilkova-formula-za-urinaren-trakt-sas-zlatna-prachica-byala-breza-chervena-borovinka-i-polski-khvossh-90-kapsuli"
-price: "30.65 € / 59.95 лв."
+price: "33.22 €"
 brand: "Bioform"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното състояние на бъбреците, уринарния тракт и пикочо-половата система

@@ -3,11 +3,11 @@ title: "Формула за бърз метаболизъм Diet T-Activ - Гу�
 description: "Подпомага функцията на щитовидната жлеза и стимулира метаболизма"
 image: "http://revita.bg/img/p/6/3/7/0/6370.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdiet-t-activ-formula-za-barz-metabolizam-90-kapsuli"
-price: "23.53 € / 46.02 лв."
+price: "23.53 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага функцията на щитовидната жлеза и стимулира метаболизма

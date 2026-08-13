@@ -3,11 +3,11 @@ title: "EAA Есенциални аминокиселини – Мускулно
 description: "Пълноспектърна формула с 9 есенциални аминокиселини и 11.8 g EAA в дневна доза за подкрепа на мускулния синтез и възстановяване след тренировка. Обогатена с…"
 image: "http://revita.bg/img/p/1/6/2/5/1/16251.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Feaa-esencialni-aminokiselini-muskulno-vazstanovyavane-i-izdrazhlivost-118-g-400-g-prakh-50-dozi"
-price: "39.64 € / 77.53 лв."
+price: "35.23 €"
 brand: "Vegavero"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Пълноспектърна формула с 9 есенциални аминокиселини и 11.8 g EAA в дневна доза за подкрепа на мускулния синтез и възстановяване след тренировка. Обогатена с витамин B6 за нормален енергиен метаболизъм и намаляване на умората. С вкус на праскова, подходящ за ...

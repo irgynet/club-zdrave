@@ -3,11 +3,11 @@ title: "Дихателна система - Кодонопсис, 50 ml, спр�
 description: "Подпомага нормалното състояние на дихателната система и енергийния метаболизъм"
 image: "http://revita.bg/img/p/1/0/2/3/6/10236.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdikhatelna-sistema-kodonopsis-50-ml-sprej"
-price: "33.91 € / 66.32 лв."
+price: "33.91 €"
 brand: "Gall Pharma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага нормалното състояние на дихателната система и енергийния метаболизъм

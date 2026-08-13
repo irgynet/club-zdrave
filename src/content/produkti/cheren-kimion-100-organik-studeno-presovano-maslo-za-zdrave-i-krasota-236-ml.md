@@ -3,11 +3,11 @@ title: "Черен кимион - 100% оргàник, студено пресо
 description: "С мощни имуностимулиращи и противовъзпалителни свойства. Подходящ и за външна локална употреба при косопад, псориазис или екзема"
 image: "http://revita.bg/img/p/2/7/8/8/2788.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fcheren-kimion-maslo-4500-mg-x-235-ml"
-price: "57.24 € / 111.95 лв."
+price: "57.24 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 С мощни имуностимулиращи и противовъзпалителни свойства. Подходящ и за външна локална употреба при косопад, псориазис или екзема

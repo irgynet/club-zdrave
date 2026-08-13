@@ -3,11 +3,11 @@ title: "Грижа за уринарния тракт (червена боров
 description: "Подпомага прочистването на пикочните пътища, намалява риска от инфекции и цистит, стимулира бъбречната функция"
 image: "http://revita.bg/img/p/1/1/9/6/4/11964.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fgrizha-za-urinarniya-trakt-chervena-borovinka-byala-breza-i-kaluna-cystenea-200-ml"
-price: "22.61 € / 44.22 лв."
+price: "25.43 €"
 brand: "Dietaroma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага прочистването на пикочните пътища, намалява риска от инфекции и цистит, стимулира бъбречната функция

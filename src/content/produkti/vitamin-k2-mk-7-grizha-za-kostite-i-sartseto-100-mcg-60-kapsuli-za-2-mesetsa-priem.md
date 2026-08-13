@@ -3,11 +3,11 @@ title: "Витамин К2 (MK-7) – грижа за костите и сърц
 description: "Получен от традиционната японска храна натто (ферментирали соеви зърна)"
 image: "http://revita.bg/img/p/1/5/1/0/9/15109.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvitamin-k2-100-mcg"
-price: "13.09 € / 25.60 лв."
+price: "13.09 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Получен от традиционната японска храна натто (ферментирали соеви зърна)

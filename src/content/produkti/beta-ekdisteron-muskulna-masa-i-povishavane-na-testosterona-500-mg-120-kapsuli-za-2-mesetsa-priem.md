@@ -3,11 +3,11 @@ title: "Бета екдистерон - мускулна маса и повиш�
 description: "За изграждане на мускулите и повишаване ефективността на спортните тренировки"
 image: "http://revita.bg/img/p/5/0/9/9/5099.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbeta-ecdysterone-beta-ekdisteron-500-mg-120-kapsuli"
-price: "60.21 € / 117.76 лв."
+price: "60.21 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За изграждане на мускулите и повишаване ефективността на спортните тренировки

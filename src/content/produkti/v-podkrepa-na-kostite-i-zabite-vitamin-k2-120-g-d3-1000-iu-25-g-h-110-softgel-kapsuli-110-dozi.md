@@ -3,11 +3,11 @@ title: "В подкрепа на костите и зъбите -  Витами�
 description: "Допринася  за нормалното усвояване на калций от костите, както и за нормални нива на калций в кръвта и нормалното състояние на костите и зъбите"
 image: "http://revita.bg/img/p/1/1/5/8/2/11582.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fv-podkrepa-na-kostite-i-zabite-vitamin-k2-120-g-d3-1000-iu-25-g-kh-110-softgel-kapsuli-110-dozi"
-price: "17.17 € / 33.58 лв."
+price: "17.17 €"
 brand: "Webber Naturals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася  за нормалното усвояване на калций от костите, както и за нормални нива на калций в кръвта и нормалното състояние на костите и зъбите

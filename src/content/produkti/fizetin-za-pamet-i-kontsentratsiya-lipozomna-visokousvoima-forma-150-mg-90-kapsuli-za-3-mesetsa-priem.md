@@ -3,11 +3,11 @@ title: "Физетин за памет и концентрация - Липоз�
 description: "Подпомага нормалното състояние на паметта и когнитивната функция"
 image: "http://revita.bg/img/p/9/7/5/5/9755.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fpamet-i-koncentraciya-fizetin-lipozomen-lipo-fisetin-150-mg-kh-90-kapsuli"
-price: "152.36 € / 297.99 лв."
+price: "152.36 €"
 brand: "Renue by science"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага нормалното състояние на паметта и когнитивната функция

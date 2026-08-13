@@ -3,11 +3,11 @@ title: "Хлорофреш® Течен Хлорофил – Детоксика�
 description: "Естествен вътрешен дезодорант и детоксикатор"
 image: "http://revita.bg/img/p/1/0/3/9/8/10398.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fhlorofresh-techen-hlorofilen-komplek-2"
-price: "22.07 € / 43.17 лв."
+price: "22.07 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Естествен вътрешен дезодорант и детоксикатор

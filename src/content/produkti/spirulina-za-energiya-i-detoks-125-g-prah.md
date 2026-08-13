@@ -1,13 +1,13 @@
 ---
 title: "Спирулина за енергия и детокс, 125 g прах"
 description: "Био спирулина на прах – естествен източник на растителен протеин, витамини и минерали. Подпомага детоксикацията, тонуса и имунната защита. 100% чист, веган…"
-image: "http://revita.bg/img/p/1/3/3/1/0/13310.jpg"
+image: "http://revita.bg/img/p/1/7/9/5/3/17953.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fspirulina-za-energiya-i-detoks-125-g-prakh"
-price: "13.66 € / 26.72 лв."
+price: "13.66 €"
 brand: "Mattisson Healthstyle"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Био спирулина на прах – естествен източник на растителен протеин, витамини и минерали. Подпомага детоксикацията, тонуса и имунната защита. 100% чист, веган екстракт, подходящ за различни хранителни режими

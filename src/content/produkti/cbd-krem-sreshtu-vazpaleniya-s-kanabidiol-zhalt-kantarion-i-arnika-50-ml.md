@@ -3,11 +3,11 @@ title: "CBD - Крем срещу възпаления с канабидиол, 
 description: "Натурален продукт с обезболяващ и успокояващ ефект"
 image: "http://revita.bg/img/p/5/6/9/0/5690.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fcbd-krem-za-mazane-50-ml"
-price: "14.91 € / 29.16 лв."
+price: "14.91 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Натурален продукт с обезболяващ и успокояващ ефект

@@ -3,11 +3,11 @@ title: "Валериана + Пасифлора + Калифорнийски м�
 description: "Течна формула с екстракти от валериана, пасифлора и калифорнийски мак – за по-лесно заспиване и поддържане на спокоен сън без привикване. Идеална при…"
 image: "http://revita.bg/img/p/1/4/3/5/4/14354.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvaleriana-pasiflora-kalifornijski-mak-za-spokoen-san-i-otpuskane-pri-stres-20-ampuli"
-price: "21.41 € / 41.87 лв."
+price: "21.41 €"
 brand: "Dietaroma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Течна формула с екстракти от валериана, пасифлора и калифорнийски мак – за по-лесно заспиване и поддържане на спокоен сън без привикване. Идеална при напрежение, тревожност или при смяна на режим – в удобни ампули за пиене

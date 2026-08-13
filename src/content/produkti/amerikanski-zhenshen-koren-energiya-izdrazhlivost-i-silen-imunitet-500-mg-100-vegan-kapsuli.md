@@ -3,11 +3,11 @@ title: "Американски женшен (корен) – Енергия, и�
 description: "Американски женшен (Panax quinquefolius) с адаптогенно действие за подкрепа при физическо и психическо натоварване. Подходящ при умора, спад в тонуса и…"
 image: "http://revita.bg/img/p/1/6/2/9/9/16299.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Famerikanski-zhenshen-koren-energiya-izdrazhlivost-i-silen-imunitet-500-mg-100-vegan-kapsuli"
-price: "16.93 € / 33.11 лв."
+price: "16.93 €"
 brand: "NOW Foods"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Американски женшен (Panax quinquefolius) с адаптогенно действие за подкрепа при физическо и психическо натоварване. Подходящ при умора, спад в тонуса и отслабен имунитет

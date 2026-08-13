@@ -3,11 +3,11 @@ title: "Глицин 3000 mg + L-теанин 200 mg – Спокоен сън �
 description: "Комбинация от аминокиселини с доказано успокояващо действие – подпомага отпускането на нервната система, намалява напрежението и съдейства за по-спокоен сън…"
 image: "http://revita.bg/img/p/1/4/8/8/9/14889.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fglicin-3000-mg-l-teanin-200-mg-spokoen-san-i-relaksaciya-30-sasheta"
-price: "17.19 € / 33.62 лв."
-brand: "Fine Japan"
+price: "17.19 €"
+brand: "Fine Group"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от аминокиселини с доказано успокояващо действие – подпомага отпускането на нервната система, намалява напрежението и съдейства за по-спокоен сън. Подходящ за прием преди лягане

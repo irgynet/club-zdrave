@@ -3,11 +3,11 @@ title: "Банаба + Зелен чай и катехини – Кръвна з
 description: "Формула с банаба, катехини от зелен чай, кофеин и витамини от групата В за подкрепа на глюкозния метаболизъм и контрол на апетита. Подходяща при нужда от…"
 image: "http://revita.bg/img/p/1/3/9/9/3/13993.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbanaba-zelen-chaj-i-katekhini-kravna-zakhar-i-metabolizam-60-tabletki"
-price: "23.26 € / 45.49 лв."
+price: "23.26 €"
 brand: "Funeat"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Формула с банаба, катехини от зелен чай, кофеин и витамини от групата В за подкрепа на глюкозния метаболизъм и контрол на апетита. Подходяща при нужда от регулиране нивата на кръвната захар и подобряване ...

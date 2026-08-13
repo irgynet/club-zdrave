@@ -3,11 +3,11 @@ title: "Коластра от козе мляко с инулин – За им�
 description: "Коластра от козе мляко с естествени имуноглобулини (28%) и пребиотичен инулин за комбинирана подкрепа на имунната система и храносмилането. Подходяща за деца…"
 image: "http://revita.bg/img/p/1/4/7/3/0/14730.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkolastra-ot-koze-mlyako-s-inulin-za-imunna-zasshita-i-chreven-balans-200-mg-60-kapsuli"
-price: "27.86 € / 54.49 лв."
+price: "27.86 €"
 brand: "Virde"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Коластра от козе мляко с естествени имуноглобулини (28%) и пребиотичен инулин за комбинирана подкрепа на имунната система и храносмилането. Подходяща за деца над 3 г. и възрастни при нужда от засилена защита

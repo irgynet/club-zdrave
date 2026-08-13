@@ -3,11 +3,11 @@ title: "Prenatal Advantage - Мултивитамини за бременни и
 description: "За нормалното функциониране на женския организъм при бременност и кърмене"
 image: "http://revita.bg/img/p/6/6/1/5/6615.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fprenatal-advantage-multivitamini-za-bremenni-i-karmachki-120-softgel-kapsuli"
-price: "46.15 € / 90.26 лв."
+price: "45.12 €"
 brand: "Life Extension"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За нормалното функциониране на женския организъм при бременност и кърмене

@@ -3,11 +3,11 @@ title: "Кичари – аюрведична подправка (пикантн
 description: "Аюрведична смес от био кимион, куркума, асафетида и други подправки – създадена за приготвяне на кичари, традиционно ястие, което подпомага баланса между…"
 image: "http://revita.bg/img/p/1/3/7/4/9/13749.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkichari-ayurvedichna-podpravka-bio-za-leko-khranosmilane-i-vatreshen-balans-100-g"
-price: "15.96 € / 31.22 лв."
+price: "15.96 €"
 brand: "amla natur  Maharishi Ayurveda"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Аюрведична смес от био кимион, куркума, асафетида и други подправки – създадена за приготвяне на кичари, традиционно ястие, което подпомага баланса между дошите (вата, пита и кафа). Насърчава леко храносмилане и усещане за комфорт след хранене. Без глутен ...

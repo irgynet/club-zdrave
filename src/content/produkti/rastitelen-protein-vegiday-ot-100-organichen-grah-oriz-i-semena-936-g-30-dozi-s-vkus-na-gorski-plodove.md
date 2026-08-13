@@ -3,11 +3,11 @@ title: "Растителен протеин VegiDay от 100% органичен
 description: "Пълноценен протеин от грах, ориз, тиквено семе, киноа, спирулина и хлорела – за възстановяване и поддържане на мускулната маса при активен начин на живот. Без…"
 image: "http://revita.bg/img/p/1/4/9/5/7/14957.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Frastitelen-protein-vegiday-ot-100-organichen-grakh-oriz-i-semena-936-g-30-dozi-s-vkus-na-gorski-plodove"
-price: "73.12 € / 143.01 лв."
+price: "97.96 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Пълноценен протеин от грах, ориз, тиквено семе, киноа, спирулина и хлорела – за възстановяване и поддържане на мускулната маса при активен начин на живот. Без глутен, животински съставки и добавена захар – подходящ за вегани. Съдържа 22 g протеин в доза

@@ -3,11 +3,11 @@ title: "Митохондриална формула за клетъчна ене
 description: "Увеличава производството на клетъчна енергия. Намалява симптомите на умора. Поддържа ендогенните антиоксидантни защитни системи"
 image: "http://revita.bg/img/p/1/5/0/5/7/15057.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmitohondrialna-formula"
-price: "68.53 € / 134.03 лв."
+price: "68.53 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Увеличава производството на клетъчна енергия. Намалява симптомите на умора. Поддържа ендогенните антиоксидантни защитни системи

@@ -3,11 +3,11 @@ title: "Черен джинджифил + Салация – Здравосло�
 description: "Синергия от екстракти от черен джинджифил и салация за подпомагане на нормалните нива на кръвната захар и контрол на въглехидратния метаболизъм. Подходяща…"
 image: "http://revita.bg/img/p/1/4/7/5/5/14755.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fcheren-dzhindzhifil-salaciya-zdravoslovna-kravna-zakhar-i-metaboliten-balans-60-kapsuli"
-price: "21.57 € / 42.19 лв."
+price: "21.57 €"
 brand: "Orihiro"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Синергия от екстракти от черен джинджифил и салация за подпомагане на нормалните нива на кръвната захар и контрол на въглехидратния метаболизъм. Подходяща формула за хора, стремящи се към метаболитен комфорт и балансирани енергийни нива

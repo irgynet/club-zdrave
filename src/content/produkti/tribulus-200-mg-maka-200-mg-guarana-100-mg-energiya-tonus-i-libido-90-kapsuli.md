@@ -3,11 +3,11 @@ title: "Трибулус 200 mg + Мака 200 mg + Гуарана 100 mg – Е
 description: "Растителна формула с трибулус (80% сапонини), мака и кофеин от гуарана – подпомага сексуалната функция, енергийния метаболизъм и физическата издръжливост…"
 image: "http://revita.bg/img/p/1/5/4/8/1/15481.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Ftribulus-200-mg-maka-200-mg-guarana-100-mg-energiya-tonus-i-libido-90-kapsuli"
-price: "16.71 € / 32.68 лв."
+price: "16.71 €"
 brand: "Hanoju"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Растителна формула с трибулус (80% сапонини), мака и кофеин от гуарана – подпомага сексуалната функция, енергийния метаболизъм и физическата издръжливост. Подходяща за вегани

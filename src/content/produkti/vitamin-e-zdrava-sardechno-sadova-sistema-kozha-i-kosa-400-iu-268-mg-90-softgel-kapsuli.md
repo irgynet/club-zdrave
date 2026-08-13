@@ -3,11 +3,11 @@ title: "Витамин Е – Здрава сърдечно-съдова сис�
 description: "Мощен антиоксидант с естествен d-алфа токоферол за защита от оксидативен стрес. Подпомага нормалното състояние на сърцето, кожата и косата. Без ГМО, алергени и…"
 image: "http://revita.bg/img/p/1/4/5/9/5/14595.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvitamin-e-zdrava-sardechno-sadova-sistema-kozha-i-kosa-400-iu-268-mg-90-softgel-kapsuli"
-price: "20.42 € / 39.94 лв."
+price: "20.42 €"
 brand: "Healthy Origins"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мощен антиоксидант с естествен d-алфа токоферол за защита от оксидативен стрес. Подпомага нормалното състояние на сърцето, кожата и косата. Без ГМО, алергени и изкуствени добавки

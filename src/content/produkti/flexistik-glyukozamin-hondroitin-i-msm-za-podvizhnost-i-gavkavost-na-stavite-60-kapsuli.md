@@ -3,11 +3,11 @@ title: "Flexistik – Глюкозамин, хондроитин и МСМ за 
 description: "Комплексна формула с глюкозамин, хондроитин и МСМ, допълнена с босвелия и хиалуронова киселина. Подпомага подвижността, гъвкавостта и комфорта на ставите при…"
 image: "http://revita.bg/img/p/1/6/3/9/6/16396.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fflexistik-glyukozamin-khondroitin-i-msm-za-podvizhnost-i-gavkavost-na-stavite-60-kapsuli"
-price: "16.39 € / 32.06 лв."
+price: "16.39 €"
 brand: "Virde"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комплексна формула с глюкозамин, хондроитин и МСМ, допълнена с босвелия и хиалуронова киселина. Подпомага подвижността, гъвкавостта и комфорта на ставите при движение. Подходяща добавка при физическо натоварване, активен начин на живот и поддържане на ...

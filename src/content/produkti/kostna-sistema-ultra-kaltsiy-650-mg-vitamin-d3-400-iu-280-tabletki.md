@@ -3,11 +3,11 @@ title: "Костна система - Ултра Калций 650 mg + Вита�
 description: "Може да намали риска от остеопороза, когато се комбинира със здравословна диета и редовни упражнения"
 image: "http://revita.bg/img/p/7/6/8/7/7687.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkostna-sistema-ultra-kalcij-650-mg-vitamin-d3-400-iu-280-tabletki"
-price: "30.77 € / 60.18 лв."
+price: "30.77 €"
 brand: "Webber Naturals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Може да намали риска от остеопороза, когато се комбинира със здравословна диета и редовни упражнения

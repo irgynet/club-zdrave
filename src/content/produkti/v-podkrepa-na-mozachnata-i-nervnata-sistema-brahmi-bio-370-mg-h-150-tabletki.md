@@ -3,11 +3,11 @@ title: "В подкрепа на мозъчната и нервната сист
 description: "Подпомага функциите на мозъка и нервната система"
 image: "http://revita.bg/img/p/1/0/8/1/1/10811.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbrakhmi-bio-370-mg"
-price: "17.87 € / 34.95 лв."
+price: "22.89 €"
 brand: "amla natur  Maharishi Ayurveda"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага функциите на мозъка и нервната система

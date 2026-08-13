@@ -3,11 +3,11 @@ title: "При висок холестерол - Чесън (маслен екс
 description: "Допринася за укрепване на сърдечно-съдовата система, липидния метаболизъм, храносмилането, ставите и опорно-двигателния апарат"
 image: "http://revita.bg/img/p/1/1/0/9/7/11097.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fpri-visok-kholesterol-chesan-maslen-ekstrakt-10-mg-kh-240-softgel-kapsuli"
-price: "26.37 € / 51.58 лв."
+price: "27.90 €"
 brand: "Nutricost"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за укрепване на сърдечно-съдовата система, липидния метаболизъм, храносмилането, ставите и опорно-двигателния апарат

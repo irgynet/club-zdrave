@@ -3,11 +3,11 @@ title: "Формула срещу киселини EsophaCool™ - Добро х
 description: "Възстановяване на стомашния комфорт с DGL, калций и магнезий"
 image: "http://revita.bg/img/p/3/7/3/8/3738.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fesophacool-60-davchashti-tabletki"
-price: "19.06 € / 37.28 лв."
+price: "18.63 €"
 brand: "Life Extension"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Възстановяване на стомашния комфорт с DGL, калций и магнезий

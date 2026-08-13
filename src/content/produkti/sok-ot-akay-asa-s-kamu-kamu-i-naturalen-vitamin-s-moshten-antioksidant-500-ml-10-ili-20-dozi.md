@@ -3,11 +3,11 @@ title: "Сок от акай (Асаѝ) с каму-каму и натурале
 description: "Допринася за нормалното функциониране на имунната система, метаболизма, стомашно-чревния тракт и  кръвообращението"
 image: "http://revita.bg/img/p/9/7/1/2/9712.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsok-ot-akaj-500-ml"
-price: "10.80 € / 21.12 лв."
+price: "10.80 €"
 brand: "Ekamedica"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното функциониране на имунната система, метаболизма, стомашно-чревния тракт и  кръвообращението

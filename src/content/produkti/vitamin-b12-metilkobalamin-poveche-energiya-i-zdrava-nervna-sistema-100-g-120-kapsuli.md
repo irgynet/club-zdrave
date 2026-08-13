@@ -3,11 +3,11 @@ title: "Витамин B12 (Метилкобаламин) – Повече ен�
 description: "Активна форма на витамин B12 (метилкобаламин) за подпомагане на производството на енергия в организма. Допринася за нормалната функция на нервната система и…"
 image: "http://revita.bg/img/p/1/6/5/7/5/16575.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvitamin-b12-metilkobalamin-poveche-energiya-i-zdrava-nervna-sistema-100-g-120-kapsuli"
-price: "12.30 € / 24.06 лв."
+price: "12.30 €"
 brand: "Aura Herbals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Активна форма на витамин B12 (метилкобаламин) за подпомагане на производството на енергия в организма. Допринася за нормалната функция на нервната система и поддържането на добър тонус. Подходящ при умора и натоварено ежедневие

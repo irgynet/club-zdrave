@@ -3,11 +3,11 @@ title: "Херпес симплекс, остеопороза и сърдечн�
 description: "Допринася за нормалното състояние на имунната система"
 image: "http://revita.bg/img/p/1/4/9/2/5/14925.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkherpes-simpleks-osteoporoza-i-sardechno-zdrave-l-lizin-1000-mg-x-120-tabletki"
-price: "18.85 € / 36.87 лв."
+price: "18.85 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното състояние на имунната система

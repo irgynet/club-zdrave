@@ -3,11 +3,11 @@ title: "Детокс ампули (с артишок, розмарин, пчел
 description: "Синергична формула с артишок, розмарин, черна ряпа и пчелен мед – подпомага естествените процеси на пречистване и поддържа нормалното състояние на черния дроб…"
 image: "http://revita.bg/img/p/1/5/3/4/5/15345.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdetoks-ampuli-s-artishok-rozmarin-pchelen-med-i-cherna-ryapa-10-ampuli"
-price: "13.92 € / 27.23 лв."
+price: "11.34 €"
 brand: "Famille Mary"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Синергична формула с артишок, розмарин, черна ряпа и пчелен мед – подпомага естествените процеси на пречистване и поддържа нормалното състояние на черния дроб. Удобен прием в течна форма за по-добра абсорбция

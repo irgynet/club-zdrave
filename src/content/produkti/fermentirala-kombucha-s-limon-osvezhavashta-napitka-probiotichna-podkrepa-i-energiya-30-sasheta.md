@@ -3,11 +3,11 @@ title: "Ферментирала комбуча с лимон – освежав
 description: "Разтворима напитка с комбуча, лимон и 17 пробиотични щама – подкрепя доброто храносмилане и баланса на чревната микрофлора. Лека и освежаваща формула без…"
 image: "http://revita.bg/img/p/1/3/9/0/3/13903.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkombucha-s-limon-dobro-khranosmilane-i-probiotichen-balans-30-sasheta"
-price: "17.63 € / 34.48 лв."
+price: "17.63 €"
 brand: "Funeat"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Разтворима напитка с комбуча, лимон и 17 пробиотични щама – подкрепя доброто храносмилане и баланса на чревната микрофлора. Лека и освежаваща формула без захар, подходяща за ежедневен прием

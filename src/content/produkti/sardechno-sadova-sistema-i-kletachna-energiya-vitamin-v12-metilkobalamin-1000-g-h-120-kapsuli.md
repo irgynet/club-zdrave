@@ -3,11 +3,11 @@ title: "Сърдечно-съдова система и клетъчна ене�
 description: "Допринася за поддържане на нормалното състояние на нервната система, енергийния метаболизъм и сърдечната функция"
 image: "http://revita.bg/img/p/1/1/4/3/7/11437.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsardechno-sadova-sistema-i-kletachna-energiya-vitamin-v12-metilkobalamin-1000-g-kh-120-kapsuli"
-price: "15.72 € / 30.75 лв."
+price: "15.79 €"
 brand: "Nutricost"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за поддържане на нормалното състояние на нервната система, енергийния метаболизъм и сърдечната функция

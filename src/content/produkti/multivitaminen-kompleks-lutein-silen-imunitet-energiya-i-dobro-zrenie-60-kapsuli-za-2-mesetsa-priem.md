@@ -3,11 +3,11 @@ title: "Мултивитаминен комплекс + лутеин - Силе�
 description: "Осигурява ключови витамини и минерали, плюс добавен лутеин в подкрепа на зрението и неврологичната функция. Продуктът е сертифициран за спортисти от NSF…"
 image: "http://revita.bg/img/p/1/0/0/8/0/10080.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fosnovni-vitamini-i-minerali-basic-nutrients-2-day-60-kapsuli"
-price: "43.90 € / 85.86 лв."
+price: "43.90 €"
 brand: "Thorne"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Осигурява ключови витамини и минерали, плюс добавен лутеин в подкрепа на зрението и неврологичната функция. Продуктът е сертифициран за спортисти от NSF (National Science Foundation), но може да се използва от всеки, който желае да подобри своето здраве и качество на живот. Не ...

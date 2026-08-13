@@ -3,11 +3,11 @@ title: "Магнезий цитрат за деца – Спокойствие �
 description: "Магнезиевият цитрат има висока бионаличност и не дразни стомаха, за разлика от оксидната форма. Магнезият участва в нормалната функция на нервната система и…"
 image: "http://revita.bg/img/p/1/6/9/9/8/16998.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmagnezij-citrat-za-deca-spokojstvie-i-koncentraciya-80-mg-90-zhelirani-tabletki-s-vkus-na-gorski-plodove-i-yabalka"
-price: "24.31 € / 47.55 лв."
+price: "24.31 €"
 brand: "WeightWorld"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Магнезиевият цитрат има висока бионаличност и не дразни стомаха, за разлика от оксидната форма. Магнезият участва в нормалната функция на нервната система и мускулите – намалява нервната раздразнителност, подпомага концентрацията при деца в училищна възраст и ...

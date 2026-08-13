@@ -3,11 +3,11 @@ title: "Берберин – контрол на кръвната захар и 
 description: "За баланс на кръвната захар и холестерола, и контрола върху теглото."
 image: "http://revita.bg/img/p/5/5/2/4/5524.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fberberine-berberin-60-kapsuli"
-price: "30.39 € / 59.44 лв."
+price: "30.39 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За баланс на кръвната захар и холестерола, и контрола върху теглото.

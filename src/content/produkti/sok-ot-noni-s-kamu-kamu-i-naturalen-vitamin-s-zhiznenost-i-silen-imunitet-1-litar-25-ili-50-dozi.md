@@ -3,11 +3,11 @@ title: "Сок от нони с каму-каму и натурален вита
 description: "При умора и понижен имунитет"
 image: "http://revita.bg/img/p/8/5/9/3/8593.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fnoni-sok1-l"
-price: "24.74 € / 48.39 лв."
+price: "24.74 €"
 brand: "Ekamedica"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 При умора и понижен имунитет

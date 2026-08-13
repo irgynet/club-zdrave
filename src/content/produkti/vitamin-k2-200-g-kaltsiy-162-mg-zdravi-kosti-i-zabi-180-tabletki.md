@@ -3,11 +3,11 @@ title: "Витамин К2 200 µg + Калций 162 mg – Здрави кос
 description: "Синергична формула с Витамин К2 (МК-7) и Калций – за поддържане на здрава костна плътност и силни зъби. Подходяща за ежедневен прием"
 image: "http://revita.bg/img/p/1/4/6/5/0/14650.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvitamin-k2-200-g-kalcij-162-mg-zdravi-kosti-i-zabi-180-tabletki"
-price: "24.64 € / 48.19 лв."
+price: "27.99 €"
 brand: "Vegavero"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Синергична формула с Витамин К2 (МК-7) и Калций – за поддържане на здрава костна плътност и силни зъби. Подходяща за ежедневен прием

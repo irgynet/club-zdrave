@@ -3,11 +3,11 @@ title: "Диуретична формула за здрави бъбреци - D
 description: "Допринася за нормалното функциониране на отделителната система и бъбреците"
 image: "http://revita.bg/img/p/1/0/2/9/6/10296.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdrenaks-forte-plyus-babreci-i-otdelitelna-sistema-750-ml-s-vkus-na-dzhindzhifil-i-limon"
-price: "13.97 € / 27.32 лв."
+price: "13.97 €"
 brand: "Paladin Pharma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното функциониране на отделителната система и бъбреците

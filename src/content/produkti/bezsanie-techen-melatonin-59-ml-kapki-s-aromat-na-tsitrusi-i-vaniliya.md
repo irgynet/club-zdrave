@@ -3,11 +3,11 @@ title: "Безсъние - Течен мелатонин, 59 ml капки, с �
 description: "Допринася за съкращаване времето за заспиване"
 image: "http://revita.bg/img/p/1/2/3/4/7/12347.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbezsanie-techen-melatonin-59-ml-kapki-s-aromat-na-citrusi-i-vaniliya"
-price: "17.84 € / 34.89 лв."
+price: "17.84 €"
 brand: "Life Extension"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за съкращаване времето за заспиване

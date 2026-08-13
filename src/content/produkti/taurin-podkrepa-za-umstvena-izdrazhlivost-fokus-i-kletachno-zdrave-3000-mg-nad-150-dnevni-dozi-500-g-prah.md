@@ -3,11 +3,11 @@ title: "Таурин – Подкрепа за умствена издръжли
 description: "Чист таурин фармацевтичен стандарт в удобна прахообразна форма – за поддържане на умствената издръжливост, концентрацията и клетъчното равновесие. Без добавки…"
 image: "http://revita.bg/img/p/1/4/8/5/5/14855.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Ftaurin-podkrepa-za-umstvena-izdrazhlivost-fokus-i-kletachno-zdrave-3000-mg-nad-150-dnevni-dozi-500-g-prakh"
-price: "14.81 € / 28.97 лв."
+price: "13.33 €"
 brand: "GAL"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Чист таурин фармацевтичен стандарт в удобна прахообразна форма – за поддържане на умствената издръжливост, концентрацията и клетъчното равновесие. Без добавки и с неутрален вкус – подходящ за разтваряне във вода, сок или смути

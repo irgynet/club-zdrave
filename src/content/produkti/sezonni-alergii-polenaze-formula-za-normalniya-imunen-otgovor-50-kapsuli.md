@@ -3,11 +3,11 @@ title: "Сезонни алергии - Поленазе формула за н�
 description: "За облекчаване симптомите на сезонните алергии и подобряване на имунния отговор"
 image: "http://revita.bg/img/p/5/4/2/7/5427.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fpollenase-polenaze-50-kapsuli"
-price: "23.08 € / 45.14 лв."
+price: "22.03 €"
 brand: "Ecological Formulas"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За облекчаване симптомите на сезонните алергии и подобряване на имунния отговор

@@ -3,11 +3,11 @@ title: "Алфа липоева киселина – Метаболитен ба
 description: "Алфа-липоевата киселина е мощен антиоксидант, който подпомага нормалния глюкозен и енергиен метаболизъм. Подходяща при инсулинова резистентност и като част от…"
 image: "http://revita.bg/img/p/1/6/1/6/4/16164.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Falfa-lipoeva-kiselina-metaboliten-balans-i-kletachna-zasshita-250-mg-60-v-kapsuli"
-price: "17.92 € / 35.05 лв."
+price: "17.92 €"
 brand: "NOW Foods"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Алфа-липоевата киселина е мощен антиоксидант, който подпомага нормалния глюкозен и енергиен метаболизъм. Подходяща при инсулинова резистентност и като част от режим за поддържане на стабилни нива на кръвна захар

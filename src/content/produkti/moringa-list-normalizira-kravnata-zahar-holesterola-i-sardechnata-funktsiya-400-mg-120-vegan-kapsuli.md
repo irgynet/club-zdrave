@@ -3,11 +3,11 @@ title: "Моринга (лист) – Нормализира кръвната з
 description: "Богат на нутриенти екстракт от моринга, подпомагащ нормалното функциониране на сърдечно-съдовата система. Съдейства за поддържане на нормални нива на кръвна…"
 image: "http://revita.bg/img/p/1/6/7/6/3/16763.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmoringa-list-normalizira-kravnata-zakhar-kholesterola-i-sardechnata-funkciya-400-mg-120-vegan-kapsuli"
-price: "24.08 € / 47.10 лв."
+price: "24.08 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Богат на нутриенти екстракт от моринга, подпомагащ нормалното функциониране на сърдечно-съдовата система. Съдейства за поддържане на нормални нива на кръвна захар, холестерола и триглицеридите. Формулата е подходяща за вегани и не съдържа глутен, ГМО, соя или ...

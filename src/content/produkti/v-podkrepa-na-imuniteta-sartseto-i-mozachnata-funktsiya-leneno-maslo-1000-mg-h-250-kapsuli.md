@@ -3,11 +3,11 @@ title: "В подкрепа на имунитета, сърцето и мозъ�
 description: "Подпомага нормалното състояние на сърдечно-съдовата система, зрителната, мозъчната и имунната системи, както и за нормалната концентрация на триглицеридите и…"
 image: "http://revita.bg/img/p/1/1/7/3/2/11732.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fv-podkrepa-na-imuniteta-sarceto-i-mozachnata-funkciya-leneno-maslo-1000-mg-kh-250-kapsuli"
-price: "25.82 € / 50.50 лв."
+price: "25.82 €"
 brand: "Sports  Health Solutions"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага нормалното състояние на сърдечно-съдовата система, зрителната, мозъчната и имунната системи, както и за нормалната концентрация на триглицеридите и холестерола

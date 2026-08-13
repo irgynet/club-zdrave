@@ -3,11 +3,11 @@ title: "Фосфатидилсерин – за мозъка и нервната
 description: "Укрепва нервната система и подпомага мозъчната функция."
 image: "http://revita.bg/img/p/5/1/0/9/5109.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fphosphatidyl-serine-fosfatidilserin-300-mg-120-kapsuli"
-price: "26.74 € / 52.30 лв."
+price: "26.74 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Укрепва нервната система и подпомага мозъчната функция.

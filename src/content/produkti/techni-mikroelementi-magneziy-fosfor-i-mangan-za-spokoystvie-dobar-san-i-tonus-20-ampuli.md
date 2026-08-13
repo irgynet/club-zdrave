@@ -3,11 +3,11 @@ title: "Течни микроелементи Магнезий, Фосфор и 
 description: "Тази комбинация от три важни минерала помага на организма да се справи със стреса и умората. Магнезият успокоява нервната система, подпомага по-добрия сън и…"
 image: "http://revita.bg/img/p/1/6/9/2/5/16925.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Ftechni-mikroelementi-magnezij-fosfor-i-mangan-za-spokojstvie-dobar-san-i-tonus-20-ampuli"
-price: "23.35 € / 45.67 лв."
+price: "23.35 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Тази комбинация от три важни минерала помага на организма да се справи със стреса и умората. Магнезият успокоява нервната система, подпомага по-добрия сън и нормалната работа на сърцето. Фосфорът е необходим за производството на енергия и за здрави кости. Манганът ...

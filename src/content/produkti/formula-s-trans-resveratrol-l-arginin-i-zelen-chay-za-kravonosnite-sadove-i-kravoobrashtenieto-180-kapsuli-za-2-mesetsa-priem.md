@@ -3,11 +3,11 @@ title: "Формула с транс-ресвератрол, Л-аргинин �
 description: "Кардиопротективна формула за подобряване на кръвообращението и помпената функция на сърцето, и поддържане нормалното състояние на кръвоносните съдове. Спомага…"
 image: "http://revita.bg/img/p/1/0/3/2/3/10323.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsardechno-sadova-sistema-l-arginin-vitamin-s-folieva-kiselina-zelen-chaj-alfa-lipoeva-kiselina-i-resveratrol-180-kapsuli"
-price: "92.19 € / 180.31 лв."
+price: "73.75 €"
 brand: "Thorne"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Кардиопротективна формула за подобряване на кръвообращението и помпената функция на сърцето, и поддържане нормалното състояние на кръвоносните съдове. Спомага за увеличаване на енергията и издръжливостта при интензивни физически натоварвания. От полза за ...

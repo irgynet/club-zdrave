@@ -3,11 +3,11 @@ title: "Хром – при инсулинова резистентност и �
 description: "Висококачествен източник на хром за здравословен метаболизъм на кръвната захар"
 image: "http://revita.bg/img/p/4/8/1/2/4812.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fcromo-plantis-pri-diabet-i-insulinova-rezistentnost-kapki-100-ml"
-price: "20.47 € / 40.04 лв."
+price: "20.50 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Висококачествен източник на хром за здравословен метаболизъм на кръвната захар

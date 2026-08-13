@@ -3,11 +3,11 @@ title: "Пробиотик 18 щама + пребиотик FOS – Компле
 description: "Мултищамов пробиотик с 18 внимателно подбрани бактериални култури, които работят синергично за поддържане на чревния микробиом и здрава имунна функция. Съдържа…"
 image: "http://revita.bg/img/p/1/5/7/2/9/15729.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fprobiotik-18-sshama-prebiotik-fos-kompleksna-grizha-za-chervata-i-imuniteta-4-mlrd-cfu-30-kapsuli"
-price: "14.71 € / 28.77 лв."
+price: "14.71 €"
 brand: "Vitalers"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мултищамов пробиотик с 18 внимателно подбрани бактериални култури, които работят синергично за поддържане на чревния микробиом и здрава имунна функция. Съдържа 4 млрд. активни CFU в доза, подходяща за ежедневна профилактика или поддържане на чревен баланс при ...

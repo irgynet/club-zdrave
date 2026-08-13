@@ -3,11 +3,11 @@ title: "Пробиотик Сахаромицес боларди (Saccharomyces 
 description: "За поддържане на нормална чревна микрофлора."
 image: "http://revita.bg/img/p/1/3/3/1/1/13311.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsaccharomyces-boulardii-mannan-oligosaccharide-mos-sakharomices-bolardi-mananovi-oligozakharidi-120-kapsuli-100-vegan"
-price: "38.51 € / 75.32 лв."
+price: "38.51 €"
 brand: "Vegavero"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За поддържане на нормална чревна микрофлора.

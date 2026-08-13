@@ -3,11 +3,11 @@ title: "Формула за стави  - Хиалуронова киселин�
 description: "За нормално състояние на ставите"
 image: "http://revita.bg/img/p/6/8/6/9/6869.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fformula-za-stavi-khialuronova-kiselina-glyukozamin-i-khondroitin-60-kapsuli"
-price: "23.94 € / 46.82 лв."
+price: "23.94 €"
 brand: "Vita World"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За нормално състояние на ставите

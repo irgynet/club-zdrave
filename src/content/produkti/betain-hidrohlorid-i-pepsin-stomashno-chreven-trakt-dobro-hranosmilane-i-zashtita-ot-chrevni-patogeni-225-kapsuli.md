@@ -3,11 +3,11 @@ title: "Бетаин хидрохлорид и пепсин – стомашно
 description: "Превъзходна формула за стимулиране секрецията на панкреатични ензими, подобряване на храносмилателната функция и потискане растежа на Helicobacter pylori и…"
 image: "http://revita.bg/img/p/1/1/6/0/4/11604.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdobro-khranosmilane-betain-khidrokhlorid-pepsin-225-kapsuli"
-price: "50.64 € / 99.04 лв."
+price: "50.64 €"
 brand: "Thorne"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Превъзходна формула за стимулиране секрецията на панкреатични ензими, подобряване на храносмилателната функция и потискане растежа на Helicobacter pylori и други патогени. Значително увеличава абсорбцията на витамин B12, фолиева киселина, минерали, аминокиселини и други ...

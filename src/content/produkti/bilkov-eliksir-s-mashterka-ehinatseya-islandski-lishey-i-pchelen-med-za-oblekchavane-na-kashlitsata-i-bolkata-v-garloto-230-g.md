@@ -3,11 +3,11 @@ title: "Билков еликсир с мащерка, ехинацея, исл�
 description: "Облекчава кашлицата, успокоява раздразненото гърло и подпомага свободното дишане. Комбинацията от мащерка, ехинацея и исландски лишей действа нежно и ефективно…"
 image: "http://revita.bg/img/p/1/3/7/0/4/13704.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbilkov-eliksir-s-massherka-ekhinaceya-islandski-lishej-i-pchelen-med-za-oblekchavane-na-kashlicata-i-bolkata-v-garloto-230-g"
-price: "10.01 € / 19.58 лв."
+price: "5.01 €"
 brand: "Naturland"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Облекчава кашлицата, успокоява раздразненото гърло и подпомага свободното дишане. Комбинацията от мащерка, ехинацея и исландски лишей действа нежно и ефективно при усещане за дразнене, сухота и дискомфорт в гърлото. Подходящ както при първи признаци на настинка ...

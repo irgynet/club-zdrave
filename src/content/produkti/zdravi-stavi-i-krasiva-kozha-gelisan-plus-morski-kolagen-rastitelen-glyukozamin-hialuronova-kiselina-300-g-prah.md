@@ -3,11 +3,11 @@ title: "Здрави стави и красива кожа – Gelisan Plus - М
 description: "Богата комбинация от изпитани съставки в подкрепа на съединителната тъкан - за здрави стави и красива кожа"
 image: "http://revita.bg/img/p/5/8/7/1/5871.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fgelisan-plus-gelisan-plus-s-morski-kolagen-khialurnova-kiselina-glyukozamin-i-mikroelementi-300-g"
-price: "24.34 € / 47.60 лв."
+price: "24.89 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Богата комбинация от изпитани съставки в подкрепа на съединителната тъкан - за здрави стави и красива кожа

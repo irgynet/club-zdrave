@@ -3,11 +3,11 @@ title: "Див кестен и гроздово семе - мощен венот
 description: "В подкрепа на венозните съдове и кръвообращението."
 image: "http://revita.bg/img/p/1/4/9/6/9/14969.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdiv-kesten-i-grozdovo-seme-350-mg"
-price: "21.52 € / 42.09 лв."
+price: "21.52 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 В подкрепа на венозните съдове и кръвообращението.

@@ -3,11 +3,11 @@ title: "Диуретична формула с гроздово семе и си
 description: "Допринася за нормалното състояние на  черния дроб, отделителната система и нормалния баланс на течности в организма. Подпомага поддържането на нормално телесно…"
 image: "http://revita.bg/img/p/1/1/7/7/1/11771.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fdrenaks-forte-borovina-i-grozdovo-seme-protiv-zadarzhane-na-technosti-500-ml"
-price: "10.02 € / 19.60 лв."
+price: "10.02 €"
 brand: "Paladin Pharma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното състояние на  черния дроб, отделителната система и нормалния баланс на течности в организма. Подпомага поддържането на нормално телесно тегло

@@ -3,11 +3,11 @@ title: "Седеф от перлена стрида за костите, ста�
 description: "Подпомага нормалното състояние на костите, опорно-двигателния апарат и кожата"
 image: "http://revita.bg/img/p/1/1/6/5/2/11652.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkosti-i-stavi-sedef-ot-perlena-strida-800-mg-kh-30-kapsuli"
-price: "30.87 € / 60.38 лв."
+price: "32.22 €"
 brand: "Vegmarine"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага нормалното състояние на костите, опорно-двигателния апарат и кожата

@@ -3,11 +3,11 @@ title: "Ashwagandha BIO / Био Ашваганда, 180 капсули, 100% Ve
 description: "В подкрепа на нервната система и емоционалния баланс"
 image: "http://revita.bg/img/p/4/8/1/5/4815.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fashwagandha-bio-bio-ashvaganda-180-kapsuli-100-vegan"
-price: "32.56 € / 63.68 лв."
+price: "32.56 €"
 brand: "Vegavero"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 В подкрепа на нервната система и емоционалния баланс

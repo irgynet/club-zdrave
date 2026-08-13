@@ -3,11 +3,11 @@ title: "Гурме кафе Арабика с Чага – органик - Фи
 description: "Подарете си едно различно изживяване с филтърно кафе Rå Hygge! За разлика от „бързото“ еспресо, то осигурява повече напитка, на която да се наслаждавате…"
 image: "http://revita.bg/img/p/1/0/7/0/0/10700.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkafe-karabika-s-ekstrakt-ot-gaba-chaga-smlyano-filtar-bio-227-g"
-price: "12.73 € / 24.90 лв."
+price: "6.37 €"
 brand: "Raa Hygge"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подарете си едно различно изживяване с филтърно кафе Rå Hygge! За разлика от „бързото“ еспресо, то осигурява повече напитка, на която да се наслаждавате по-дълго и има по-фин вкус. Приготвя се с кафе машина с филтър, френска преса и др. Rå Hygge филтърно гурме кафе е ...

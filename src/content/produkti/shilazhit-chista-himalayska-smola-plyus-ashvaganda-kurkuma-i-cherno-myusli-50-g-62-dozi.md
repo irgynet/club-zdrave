@@ -3,11 +3,11 @@ title: "Шилажит - чиста хималайска смола - Плюс �
 description: "Допринася за поддържането на нормално телесно тегло и метаболизъм"
 image: "http://revita.bg/img/p/1/1/5/5/2/11552.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fotslabvane-shilazhit-ashvaganda-kurkuma-i-cherno-myusli-50-g-prakh-62-dozi"
-price: "34.22 € / 66.93 лв."
+price: "34.22 €"
 brand: "WeightWorld"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за поддържането на нормално телесно тегло и метаболизъм

@@ -3,11 +3,11 @@ title: "Super Mushroom - медицински гъби за имунитет и 
 description: "Мощна комбинация от 6 медицински гъби органик и бета+глюкан Wellmune®. Има мощно общоукрепващо, адаптогенно, тонизиращо и антиоксидантно действие. Подпомага…"
 image: "http://revita.bg/img/p/1/5/0/8/7/15087.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsuper-mushroom-smes-ot-meditsinski-gabi"
-price: "61.86 € / 120.99 лв."
+price: "61.86 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мощна комбинация от 6 медицински гъби органик и бета+глюкан Wellmune®. Има мощно общоукрепващо, адаптогенно, тонизиращо и антиоксидантно действие. Подпомага профилактиката и терапията на простуда и грип, стимулира възстановителните процеси след боледуване ...

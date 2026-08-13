@@ -3,11 +3,11 @@ title: "Рутин 200 mg с Ацерола, Шипка и Арония – Зд
 description: "Антиоксидантна формула с рутин и витамин C от ацерола, обогатена с растителни екстракти за подкрепа на имунната система. Допринася за нормалното състояние на…"
 image: "http://revita.bg/img/p/1/6/5/5/6/16556.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Frutin-200-mg-s-acerola-shipka-i-aroniya-zdravi-kravonosni-sadove-i-silen-imunitet-60-kapsuli"
-price: "14.75 € / 28.85 лв."
+price: "14.75 €"
 brand: "Aura Herbals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Антиоксидантна формула с рутин и витамин C от ацерола, обогатена с растителни екстракти за подкрепа на имунната система. Допринася за нормалното състояние на кръвоносните съдове и доброто кръвообращение. Подходяща за периоди на повишени нужди от защита и ...

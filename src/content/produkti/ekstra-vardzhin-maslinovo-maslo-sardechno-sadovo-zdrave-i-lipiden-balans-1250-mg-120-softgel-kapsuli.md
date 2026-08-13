@@ -3,11 +3,11 @@ title: "Екстра върджин маслиново масло – Сърде
 description: "Студено пресовано екстра върджин маслиново масло, естествен източник на полезни мононенаситени мастни киселини. Подпомага поддържането на нормалното състояние…"
 image: "http://revita.bg/img/p/1/6/3/7/3/16373.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fekstra-vardzhin-maslinovo-maslo-sardechno-sadovo-zdrave-i-lipiden-balans-1250-mg-120-softgel-kapsuli"
-price: "33.03 € / 64.60 лв."
+price: "33.03 €"
 brand: "Healthy Origins"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Студено пресовано екстра върджин маслиново масло, естествен източник на полезни мононенаситени мастни киселини. Подпомага поддържането на нормалното състояние на сърдечно-съдовата система и баланса на липидите в организма

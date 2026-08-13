@@ -3,11 +3,11 @@ title: "Имунитет - Екстракт от семена на грейпф�
 description: "Формула с имуностимулиращо и противовъзпалително действие"
 image: "http://revita.bg/img/p/7/3/2/9/7329.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fimunitet-ekstrakt-ot-semena-na-grejpfrut-2000-mg-60-kapsuli"
-price: "24.43 € / 47.78 лв."
+price: "24.43 €"
 brand: "Nutricost"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Формула с имуностимулиращо и противовъзпалително действие

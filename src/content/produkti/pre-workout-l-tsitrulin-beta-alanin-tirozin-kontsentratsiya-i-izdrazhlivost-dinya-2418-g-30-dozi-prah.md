@@ -3,11 +3,11 @@ title: "Pre-Workout L-Цитрулин + Бета аланин + Тирозин 
 description: "Тирозинът е предшественик на допамин и подпомага умствения фокус при физически и психически стрес. L-цитрулинът увеличава издръжливостта, бета аланинът…"
 image: "http://revita.bg/img/p/1/6/7/3/3/16733.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fpre-workout-l-citrulin-beta-alanin-tirozin-koncentraciya-i-izdrazhlivost-dinya-2418-g-30-dozi-prakh"
-price: "46.53 € / 91.00 лв."
+price: "41.88 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Тирозинът е предшественик на допамин и подпомага умствения фокус при физически и психически стрес. L-цитрулинът увеличава издръжливостта, бета аланинът буферира мускулната умора, а кофеинът осигурява бърза енергия. Подходящ при тренировки с висок интензитет ...

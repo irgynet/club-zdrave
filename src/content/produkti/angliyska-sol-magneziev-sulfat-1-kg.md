@@ -1,13 +1,13 @@
 ---
-title: "Английска сол (Maгнезиев сулфат), 1 kg"
-description: "Натурална формула за вътрешен и външен прием при възпаления, болка и скованост в тялото"
-image: "http://revita.bg/img/p/1/4/1/8/5/14185.jpg"
-affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fanglijska-sol-magneziev-sulfat-1-kg"
-price: "10.57 € / 20.67 лв."
-brand: "Mattisson Healthstyle"
+title: "Английска сол (Mагнезиев сулфат), 1 kg"
+description: "Висококачествена английска сол (магнезиев сулфат), добита от естествени минерали от подземни находища, разположени в Северна Европа"
+image: "http://revita.bg/img/p/1/0/0/2/4/10024.jpg"
+affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fanglijska-sol-magnezii-sulfat-1-kg"
+price: "11.91 €"
+brand: "Ecodis"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
-Натурална формула за вътрешен и външен прием при възпаления, болка и скованост в тялото
+Висококачествена английска сол (магнезиев сулфат), добита от естествени минерали от подземни находища, разположени в Северна Европа

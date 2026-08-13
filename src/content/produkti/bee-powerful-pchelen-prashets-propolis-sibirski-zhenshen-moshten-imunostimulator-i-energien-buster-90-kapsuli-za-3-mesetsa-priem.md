@@ -3,11 +3,11 @@ title: "Bee Powerful - Пчелен прашец, прополис & сибир�
 description: "Натурален препарат със силно тонизиращо, имуноукрепващо, антиоксидантно и антистрес действие. Повлиява благоприятно метаболитното здраве. Особено подходящ за…"
 image: "http://revita.bg/img/p/1/5/2/6/1/15261.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fpchelen-prashec-propolis-sibirski-zhenshen-zelen-chaj-imunna-zasshita-i-estestvena-energiya-90-kapsuli"
-price: "32.86 € / 64.27 лв."
+price: "32.86 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Натурален препарат със силно тонизиращо, имуноукрепващо, антиоксидантно и антистрес действие. Повлиява благоприятно метаболитното здраве. Особено подходящ за студения сезон като средство срещу инфекции и поддържане нормалното състояние на дихателната система ...

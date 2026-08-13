@@ -3,11 +3,11 @@ title: "Спермидин – антиейджинг и невропротек�
 description: "Мощен антиоксидант, невро- и кардиопротектор"
 image: "http://revita.bg/img/p/5/5/1/9/5519.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fspermidine-spermidin-120-kapsuli"
-price: "39.87 € / 77.98 лв."
+price: "39.87 €"
 brand: "Double Wood"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мощен антиоксидант, невро- и кардиопротектор

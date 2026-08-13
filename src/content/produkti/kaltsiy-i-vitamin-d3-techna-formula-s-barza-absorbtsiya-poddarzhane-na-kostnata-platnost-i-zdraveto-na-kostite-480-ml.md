@@ -3,11 +3,11 @@ title: "Калций и Витамин D3 - течна формула с бър�
 description: "Високоусвоим източник на калций и витамин D за поддържане на здрави кости"
 image: "http://revita.bg/img/p/1/3/2/8/8/13288.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Ftechen-kaltsij-vitamin-d3-wellesse-tsitrus"
-price: "18.37 € / 35.93 лв."
+price: "18.37 €"
 brand: "Natures Way"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Високоусвоим източник на калций и витамин D за поддържане на здрави кости

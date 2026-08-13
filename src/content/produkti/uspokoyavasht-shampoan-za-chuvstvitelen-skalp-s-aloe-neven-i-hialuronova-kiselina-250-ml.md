@@ -3,11 +3,11 @@ title: "Успокояващ шампоан за чувствителен ска
 description: "Нежен шампоан RINFOLTIL с алое вера, невен, хиалуронова киселина и ектоин за успокояване на чувствителен или раздразнен скалп. Възстановява хидратацията и…"
 image: "http://revita.bg/img/p/1/4/2/7/9/14279.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fuspokoyavassh-shampoan-za-chuvstvitelen-skalp-s-aloe-neven-i-khialuronova-kiselina-250-ml"
-price: "22.51 € / 44.03 лв."
+price: "17.19 €"
 brand: "Pharmalife Research"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Нежен шампоан RINFOLTIL с алое вера, невен, хиалуронова киселина и ектоин за успокояване на чувствителен или раздразнен скалп. Възстановява хидратацията и защитната бариера, без да изсушава или дразни кожата

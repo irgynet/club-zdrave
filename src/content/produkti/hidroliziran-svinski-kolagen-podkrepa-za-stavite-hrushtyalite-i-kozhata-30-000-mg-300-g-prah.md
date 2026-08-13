@@ -3,11 +3,11 @@ title: "Хидролизиран свински колаген – Подкре�
 description: "Колагенови пептиди от свински произход с високо съдържание на протеин – за насърчаване на възстановяването на ставите, кожата, връзките и сухожилията…"
 image: "http://revita.bg/img/p/1/4/8/5/4/14854.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkolagenovi-peptidi-ot-svinski-proizkhod-podkrepa-za-stavite-khrusshyalite-i-kozhata-30-000-mg-300-g-prakh"
-price: "18.17 € / 35.54 лв."
+price: "16.35 €"
 brand: "GAL"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Колагенови пептиди от свински произход с високо съдържание на протеин – за насърчаване на възстановяването на ставите, кожата, връзките и сухожилията. Неутрален вкус, лесно разтваряне, без мазнини и захари – подходящ за топли и студени напитки

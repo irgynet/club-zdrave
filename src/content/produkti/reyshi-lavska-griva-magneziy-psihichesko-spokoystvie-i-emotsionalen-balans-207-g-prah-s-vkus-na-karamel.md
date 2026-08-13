@@ -3,11 +3,11 @@ title: "Рейши + Лъвска грива + Магнезий – Психич
 description: "Комбинация от адаптогенни гъби и магнезий бисглицинат – подходяща при умствено напрежение и нужда от релакс. Подпомага усещането за спокойствие и баланс в…"
 image: "http://revita.bg/img/p/1/3/8/0/8/13808.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Frejshi-lavska-griva-magnezij-psikhichesko-spokojstvie-i-emocionalen-balans-207-g-prakh-s-vkus-na-karamel"
-price: "52.91 € / 103.48 лв."
+price: "52.91 €"
 brand: "Nutricost"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от адаптогенни гъби и магнезий бисглицинат – подходяща при умствено напрежение и нужда от релакс. Подпомага усещането за спокойствие и баланс в забързаното ежедневие. С нежен карамелен вкус и естествени подправки като кардамон и индийско орехче

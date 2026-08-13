@@ -3,11 +3,11 @@ title: "Високоусвоими витамини С, D3, А, Е, К и чер
 description: "Мощен имуностимулиращ комплекс"
 image: "http://revita.bg/img/p/8/1/1/1/8111.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Flipozomalen-vitamin-s-d3-a-e-k-i-baz-immune-charge-100-ml"
-price: "61.86 € / 120.99 лв."
+price: "61.86 €"
 brand: "Quicksilver"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мощен имуностимулиращ комплекс

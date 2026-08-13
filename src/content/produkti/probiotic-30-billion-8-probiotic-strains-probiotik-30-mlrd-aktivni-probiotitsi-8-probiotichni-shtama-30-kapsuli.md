@@ -3,11 +3,11 @@ title: "Probiotic 30 billion / 8 Probiotic Strains / Пробиотик, 30 мл
 description: "За нормалното функциониране на стомашно-чревния тракт."
 image: "http://revita.bg/img/p/4/3/7/3/4373.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fprobiotic-30-billion-8-probiotic-strains-probiotik-30-mlrd-aktivni-probiotici-8-probiotichni-shtama-30-kapsuli"
-price: "27.29 € / 53.37 лв."
+price: "27.29 €"
 brand: "Webber Naturals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За нормалното функциониране на стомашно-чревния тракт.

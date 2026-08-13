@@ -3,11 +3,11 @@ title: "Сок от вишна с каму-каму и натурален вит
 description: "Допринася за облекчаване на умора, физическо и интелектуално претоварване, и за поддържане нормалната функция на имунната система"
 image: "http://revita.bg/img/p/8/1/2/2/8122.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fimunitet-sirop-ot-vishna-500-ml"
-price: "11.36 € / 22.22 лв."
+price: "11.36 €"
 brand: "Ekamedica"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за облекчаване на умора, физическо и интелектуално претоварване, и за поддържане нормалната функция на имунната система

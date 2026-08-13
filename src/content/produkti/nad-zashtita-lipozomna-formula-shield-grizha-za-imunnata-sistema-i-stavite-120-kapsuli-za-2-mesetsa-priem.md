@@ -3,11 +3,11 @@ title: "NAD+ защита – липозомна формула SHIELD - Гри�
 description: "Shield е липозомна формула, която подпомага имунната система и здравето на ставите чрез оптимално усвояване на активните съставки. Тя допринася за намаляване…"
 image: "http://revita.bg/img/p/1/3/1/8/6/13186.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fsilen-imunitet-i-zdravi-stavi-lipozomna-formula-120-kapsuli"
-price: "137.11 € / 268.16 лв."
+price: "137.11 €"
 brand: "Renue by science"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Shield е липозомна формула, която подпомага имунната система и здравето на ставите чрез оптимално усвояване на активните съставки. Тя допринася за намаляване на възпаленията, укрепване на защитните сили на организма и поддържане на ставната мобилност

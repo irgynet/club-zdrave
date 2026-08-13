@@ -3,11 +3,11 @@ title: "Коензим Q10 (убиквинол) – Подкрепа за сър
 description: "Убиквинолът е активната форма на коензим Q10 с отлична усвояемост, която подпомага сърдечно-съдовата функция и клетъчното производство на енергия. Съдържа…"
 image: "http://revita.bg/img/p/1/5/8/1/7/15817.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fkoenzim-q10-ubikvinol-podkrepa-za-sarceto-i-energiyata-100-mg-30-kapsuli"
-price: "35.63 € / 69.69 лв."
+price: "35.63 €"
 brand: "Healthy Origins"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Убиквинолът е активната форма на коензим Q10 с отлична усвояемост, която подпомага сърдечно-съдовата функция и клетъчното производство на енергия. Съдържа патентования Kaneka™ QH, доказан с висока чистота и ефективност. Подходящ за вегани

@@ -3,11 +3,11 @@ title: "Пореч масло – Хормонален баланс и здра�
 description: "Масло от семена на пореч, естествен източник на гама-линоленова киселина (GLA), за поддържане на хормоналния баланс и състоянието на кожата. Подходящо при суха…"
 image: "http://revita.bg/img/p/1/6/1/5/8/16158.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fporech-maslo-khormonalen-balans-i-zdrava-kozha-1000-mg-60-softgel-kapsuli"
-price: "21.99 € / 43.01 лв."
+price: "21.99 €"
 brand: "NOW Foods"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Масло от семена на пореч, естествен източник на гама-линоленова киселина (GLA), за поддържане на хормоналния баланс и състоянието на кожата. Подходящо при суха кожа, ПМС и нужда от подкрепа за ендокринната система

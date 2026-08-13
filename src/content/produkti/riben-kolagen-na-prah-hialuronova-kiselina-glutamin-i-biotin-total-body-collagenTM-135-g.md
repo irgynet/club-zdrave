@@ -3,11 +3,11 @@ title: "Рибен колаген на прах + хиалуронова кис�
 description: "Заздравява ставите и съединителната тъкан. Изглажда кожата"
 image: "http://revita.bg/img/p/1/5/2/9/8/15298.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Friben-kolagen-na-prakh-s-khialuronova-kiselina-glutamin-i-biotin-total-body-collagen-135-g"
-price: "52.19 € / 102.07 лв."
+price: "52.19 €"
 brand: "Natural Factors"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Заздравява ставите и съединителната тъкан. Изглажда кожата

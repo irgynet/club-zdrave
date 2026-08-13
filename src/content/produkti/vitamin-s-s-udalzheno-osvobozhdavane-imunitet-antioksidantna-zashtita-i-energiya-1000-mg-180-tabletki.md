@@ -3,11 +3,11 @@ title: "Витамин С с удължено освобождаване – И�
 description: "Формула с постепенно освобождаване за продължителна защита на организма. Подкрепя имунната система, намалява умората и подпомага образуването на колаген за…"
 image: "http://revita.bg/img/p/1/4/6/9/4/14694.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvitamin-s-s-udalzheno-osvobozhdavane-imunitet-antioksidantna-zasshita-i-energiya-1000-mg-180-tabletki"
-price: "20.49 € / 40.07 лв."
+price: "22.45 €"
 brand: "Webber Naturals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Формула с постепенно освобождаване за продължителна защита на организма. Подкрепя имунната система, намалява умората и подпомага образуването на колаген за здрава кожа, кости и съдове. Подходящ при стрес, чести настинки и активен начин на живот

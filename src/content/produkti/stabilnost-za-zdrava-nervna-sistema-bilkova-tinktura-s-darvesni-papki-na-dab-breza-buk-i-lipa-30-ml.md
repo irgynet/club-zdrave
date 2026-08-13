@@ -3,11 +3,11 @@ title: "„Стабилност“ – за здрава нервна систе
 description: "Подпомага нормалното състояние на нервната система"
 image: "http://revita.bg/img/p/1/2/7/6/7/12767.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fbilkova-tinktura-pri-stres-s-darvesni-papki-na-dab-breza-buk-i-lipa-30-ml"
-price: "17.59 € / 34.40 лв."
+price: "17.59 €"
 brand: "Kruut"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага нормалното състояние на нервната система

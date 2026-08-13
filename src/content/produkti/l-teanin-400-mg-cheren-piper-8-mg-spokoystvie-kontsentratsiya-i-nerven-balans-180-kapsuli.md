@@ -3,11 +3,11 @@ title: "L-Теанин 400 mg + Черен пипер 8 mg – Спокойст�
 description: "Висока доза L-теанин от зелен чай за намаляване на стреса и напрежението и умствената яснота. Без усещане за сънливост. Обогатен с черен пипер за по-добра…"
 image: "http://revita.bg/img/p/1/6/2/5/5/16255.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fl-teanin-400-mg-cheren-piper-8-mg-spokojstvie-koncentraciya-i-nerven-balans-180-kapsuli"
-price: "27.15 € / 53.10 лв."
+price: "27.15 €"
 brand: "WeightWorld"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Висока доза L-теанин от зелен чай за намаляване на стреса и напрежението и умствената яснота. Без усещане за сънливост. Обогатен с черен пипер за по-добра абсорбция и витамин B6 за нормална функция на нервната система. Подходящ при стрес, напрежение и нужда от ...

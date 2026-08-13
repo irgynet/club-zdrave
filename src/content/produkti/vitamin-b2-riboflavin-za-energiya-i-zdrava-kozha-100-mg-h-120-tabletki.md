@@ -3,11 +3,11 @@ title: "Витамин B2 (рибофлавин) - За енергия и здр
 description: "Подпомага енергийния метаболизъм, здравето на кожата и функцията на нервната система"
 image: "http://revita.bg/img/p/1/3/3/9/3/13393.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fvitamin-b2-riboflavin-za-energiya-i-zdrava-kozha-100-mg-kh-120-tabletki"
-price: "13.60 € / 26.60 лв."
+price: "13.60 €"
 brand: "Webber Naturals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага енергийния метаболизъм, здравето на кожата и функцията на нервната система

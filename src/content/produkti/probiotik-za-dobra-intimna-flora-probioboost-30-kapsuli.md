@@ -3,11 +3,11 @@ title: "Пробиотик за добра интимна флора Probioboost
 description: "Балансира вагиналната флора и намалява риска от инфекции"
 image: "http://revita.bg/img/p/9/1/9/3/9193.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fprobiotik-za-dobra-intimna-flora-probioboost-30-kapsuli"
-price: "21.94 € / 42.91 лв."
+price: "22.26 €"
 brand: "Fleurance Nature"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Балансира вагиналната флора и намалява риска от инфекции

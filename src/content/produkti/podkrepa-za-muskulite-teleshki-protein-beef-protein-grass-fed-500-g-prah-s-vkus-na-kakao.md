@@ -3,11 +3,11 @@ title: "Подкрепа за мускулите - Телешки протеин
 description: "При интензивно мускулно натоварване"
 image: "http://revita.bg/img/p/1/0/0/5/3/10053.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fgovezhdi-protein-"
-price: "54.52 € / 106.63 лв."
+price: "54.52 €"
 brand: "Dense"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 При интензивно мускулно натоварване

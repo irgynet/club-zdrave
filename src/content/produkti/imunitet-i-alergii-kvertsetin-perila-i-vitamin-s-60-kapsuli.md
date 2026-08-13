@@ -3,11 +3,11 @@ title: "Имунитет и алергии - Кверцетин + перила �
 description: "Подпомага нормалното състояние на имунната, дихателната и храносмилателната система"
 image: "http://revita.bg/img/p/1/1/3/8/2/11382.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fimunitet-i-alergii-kvercetin-perila-i-vitamin-s-plantis-60-kapsuli"
-price: "26.86 € / 52.53 лв."
+price: "26.86 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Подпомага нормалното състояние на имунната, дихателната и храносмилателната система

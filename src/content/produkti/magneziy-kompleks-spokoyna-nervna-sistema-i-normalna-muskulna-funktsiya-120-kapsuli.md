@@ -3,11 +3,11 @@ title: "Магнезий комплекс – Спокойна нервна си
 description: "Комбинация от магнезий цитрат, малат и ацетил таурат за добра усвояемост и ефективност. Допринася за нормалната функция на мускулите, нервната система и…"
 image: "http://revita.bg/img/p/1/6/5/6/0/16560.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fmagnezij-kompleks-spokojna-nervna-sistema-i-normalna-muskulna-funkciya-120-kapsuli"
-price: "29.58 € / 57.85 лв."
+price: "29.58 €"
 brand: "Aura Herbals"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Комбинация от магнезий цитрат, малат и ацетил таурат за добра усвояемост и ефективност. Допринася за нормалната функция на мускулите, нервната система и сърдечния ритъм. Подходящ при умора, напрежение и физическо натоварване

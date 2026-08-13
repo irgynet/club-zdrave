@@ -3,11 +3,11 @@ title: "Терапевтична играчка-грейка Хъски – За
 description: "Мека играчка, пълна със 100% натурални семена от спелта. Подходяща против колики при бебета, деца, мускулни спазми, менструални болки и за подобряване на…"
 image: "http://revita.bg/img/p/1/1/7/6/7/11767.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fterapevptichna-igrachka-grejka-khaski"
-price: "31.18 € / 60.98 лв."
+price: "27.13 €"
 brand: "Paladin Pharma"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Мека играчка, пълна със 100% натурални семена от спелта. Подходяща против колики при бебета, деца, мускулни спазми, менструални болки и за подобряване на кръвообращението

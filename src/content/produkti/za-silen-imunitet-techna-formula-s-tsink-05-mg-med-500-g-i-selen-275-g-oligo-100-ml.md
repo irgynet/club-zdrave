@@ -3,11 +3,11 @@ title: "За силен имунитет - Течна формула с цинк
 description: "За подсилване на имунитета и укрепване на организма"
 image: "http://revita.bg/img/p/7/3/1/5/7315.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fimunitet-cink-med-i-selen-plantis-100-ml"
-price: "17.36 € / 33.95 лв."
+price: "17.36 €"
 brand: "Artesania Agricola"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 За подсилване на имунитета и укрепване на организма

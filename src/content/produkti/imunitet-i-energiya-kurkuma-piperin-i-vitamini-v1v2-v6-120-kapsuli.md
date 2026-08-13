@@ -3,11 +3,11 @@ title: "Имунитет и енергия, Куркума + Пиперин и �
 description: "Допринася за нормалното функциониране на организма"
 image: "http://revita.bg/img/p/7/3/5/5/7355.jpg"
 affiliateLink: "https://profitshare.bg/lps/ZOn/Zw/?redirect=https%3A%2F%2Frevita.bg%2F2%2Fimunitet-i-energiya-kurkuma-piperin-i-vitamini-v1v2-v6-120-kapsuli"
-price: "23.94 € / 46.82 лв."
+price: "23.94 €"
 brand: "Vita World"
 category: "Начало"
 featured: false
-date: 2026-04-30
+date: 2026-08-13
 ---
 
 Допринася за нормалното функциониране на организма
